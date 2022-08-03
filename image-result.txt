@@ -1,0 +1,23 @@
+jobi-1:
+[{'box_x0_coor': 51, 'box_y0_coor': 712, 'box_x1_coor': 140, 'box_y1_coor': 801},
+{'box_x0_coor': 250, 'box_y0_coor': 676, 'box_x1_coor': 345, 'box_y1_coor': 772}]
+
+jobi-2:
+[{'box_x0_coor': 51, 'box_y0_coor': 712, 'box_x1_coor': 140, 'box_y1_coor': 801},
+{'box_x0_coor': 250, 'box_y0_coor': 419, 'box_x1_coor': 345, 'box_y1_coor': 515}]
+
+jobi-3:
+[{'box_x0_coor': 51, 'box_y0_coor': 712, 'box_x1_coor': 140, 'box_y1_coor': 801},
+{'box_x0_coor': 250, 'box_y0_coor': 369, 'box_x1_coor': 345, 'box_y1_coor': 465}]
+
+jobi-4:
+[{'box_x0_coor': 51, 'box_y0_coor': 712, 'box_x1_coor': 140, 'box_y1_coor': 801},
+{'box_x0_coor': 250, 'box_y0_coor': 255, 'box_x1_coor': 345, 'box_y1_coor': 351}]
+
+right-blue-1:
+[{'box_x0_coor': 427, 'box_y0_coor': 674, 'box_x1_coor': 577, 'box_y1_coor': 824}]
+
+right-blue-2:
+[{'box_x0_coor': 427, 'box_y0_coor': 674, 'box_x1_coor': 577, 'box_y1_coor': 824}]
+
+

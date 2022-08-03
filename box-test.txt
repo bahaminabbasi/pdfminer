@@ -1,0 +1,545 @@
+<LTTextBoxHorizontal(1) 503.745,777.246,544.775,792.368 'ﻣﻄﻬﺮه\nﻣﻄﻬﺮه\n'>
+ﻣﻄﻬﺮه
+ﻣﻄﻬﺮه
+
+<LTTextBoxHorizontal(2) 430.036,756.956,447.267,767.758 'اﻧﺪ  \n'>
+اﻧﺪ
+
+<LTTextBoxHorizontal(3) 447.305,756.956,479.059,767.758 'ﻓﺮاﻧﺖ  \n'>
+ﻓﺮاﻧﺖ
+
+<LTTextBoxHorizontal(4) 479.096,756.956,510.350,767.758 'ﺟﻮﻧﯿﻮر\n'>
+ﺟﻮﻧﯿﻮر
+
+<LTTextBoxHorizontal(5) 510.414,756.956,513.503,767.758 '/\n'>
+/
+
+<LTTextBoxHorizontal(6) 513.523,756.956,544.781,767.758 'ﮐﺎرآﻣﻮز\n'>
+ﮐﺎرآﻣﻮز
+
+<LTTextBoxHorizontal(7) 383.806,685.236,544.811,743.851 'دوﻟﻮﭘﺮ\n۰۹۱۱۷۸۴۵۲۷۳ \uf106\nmotaharefallah73@gmail.com \uf11c\n'>
+دوﻟﻮﭘﺮ
+۰۹۱۱۷۸۴۵۲۷۳ 
+motaharefallah73@gmail.com 
+
+<LTTextBoxHorizontal(8) 435.941,661.329,471.450,672.130 'ﺟﺎﺑﯿﻨﺠﺎ\n'>
+ﺟﺎﺑﯿﻨﺠﺎ
+
+<LTTextBoxHorizontal(9) 475.579,661.329,501.227,672.130 'ﻃﺮﯾﻖ\n'>
+ﻃﺮﯾﻖ
+
+<LTTextBoxHorizontal(10) 501.295,661.329,516.229,672.130 '  از  \n'>
+  از
+
+<LTTextBoxHorizontal(11) 516.266,661.329,544.868,672.130 'ﺗﻤﺎس\n'>
+ﺗﻤﺎس
+
+<LTTextBoxHorizontal(12) 468.454,597.809,513.051,610.771 'ﺷﺨﺼﯽ\nﺷﺨﺼﯽ\n'>
+ﺷﺨﺼﯽ
+ﺷﺨﺼﯽ
+
+<LTTextBoxHorizontal(13) 516.612,597.809,562.681,610.771 'اﻃﻼﻋﺎت\nاﻃﻼﻋﺎت\n'>
+اﻃﻼﻋﺎت
+اﻃﻼﻋﺎت
+
+<LTTextBoxHorizontal(14) 482.458,554.900,519.429,565.701 ' ۱۳۷۳ : \n'>
+ ۱۳۷۳ :
+
+<LTTextBoxHorizontal(15) 519.453,554.900,562.695,565.701 'ﺗﻮﻟﺪ   ﺳﺎل\n'>
+ﺗﻮﻟﺪ   ﺳﺎل
+
+<LTTextBoxHorizontal(16) 504.493,525.664,524.580,536.466 'زن  :\n'>
+زن  :
+
+<LTTextBoxHorizontal(17) 524.604,525.664,562.600,536.466 'ﺟﻨﺴﯿﺖ\n'>
+ﺟﻨﺴﯿﺖ
+
+<LTTextBoxHorizontal(18) 464.168,496.429,489.275,507.230 'ﻣﺠﺮد\n'>
+ﻣﺠﺮد
+
+<LTTextBoxHorizontal(19) 489.371,496.429,496.352,507.230 ' :\n'>
+ :
+
+<LTTextBoxHorizontal(20) 496.376,496.429,524.299,507.230 'ﺗﺄﻫﻞ  \n'>
+ﺗﺄﻫﻞ
+
+<LTTextBoxHorizontal(21) 524.336,496.429,562.605,507.230 'وﺿﻌﯿﺖ\n'>
+وﺿﻌﯿﺖ
+
+<LTTextBoxHorizontal(22) 462.296,467.193,494.480,477.995 'ﺗﻬﺮان  :\n'>
+ﺗﻬﺮان  :
+
+<LTTextBoxHorizontal(23) 494.504,467.193,530.656,477.995 'ﺳﮑﻮﻧﺖ\n'>
+ﺳﮑﻮﻧﺖ
+
+<LTTextBoxHorizontal(24) 534.791,467.193,562.762,477.995 'اﺳﺘﺎن\n'>
+اﺳﺘﺎن
+
+<LTTextBoxHorizontal(25) 498.553,415.627,531.770,428.588 'ﻣﻦﻣﻦ   یی\n'>
+ﻣﻦﻣﻦ   یی
+
+<LTTextBoxHorizontal(26) 531.536,415.627,562.734,428.588 'درﺑﺎره\nدرﺑﺎره\n'>
+درﺑﺎره
+درﺑﺎره
+
+<LTTextBoxHorizontal(27) 66.968,372.718,104.917,383.519 'ﯾﺎدﮔﯿﺮی\n'>
+ﯾﺎدﮔﯿﺮی
+
+<LTTextBoxHorizontal(28) 104.957,372.718,139.108,383.519 '  ﺑﻪ   ﻣﻨﺪ\n'>
+  ﺑﻪ   ﻣﻨﺪ
+
+<LTTextBoxHorizontal(29) 139.159,372.718,163.023,383.519 'ﻋﻼﻗﻪ\n'>
+ﻋﻼﻗﻪ
+
+<LTTextBoxHorizontal(30) 163.073,372.718,176.852,383.519 ' و \n'>
+ و
+
+<LTTextBoxHorizontal(31) 176.889,372.718,209.313,383.519 'ﻧﻮﯾﺴﯽ\n'>
+ﻧﻮﯾﺴﯽ
+
+<LTTextBoxHorizontal(32) 213.407,372.718,240.392,383.519 'ﺑﺮﻧﺎﻣﻪ\n'>
+ﺑﺮﻧﺎﻣﻪ
+
+<LTTextBoxHorizontal(33) 240.419,372.718,276.901,383.519 ' ی ﺣﻮزه\n'>
+ ی ﺣﻮزه
+
+<LTTextBoxHorizontal(34) 276.964,372.718,294.899,383.519 '  در  \n'>
+  در
+
+<LTTextBoxHorizontal(35) 294.936,372.718,322.716,383.519 'ﻣﺪاوم\n'>
+ﻣﺪاوم
+
+<LTTextBoxHorizontal(36) 326.834,372.718,359.966,383.519 'رﺷﺪ  و \n'>
+رﺷﺪ  و
+
+<LTTextBoxHorizontal(37) 360.003,372.718,397.952,383.519 'ﯾﺎدﮔﯿﺮی\n'>
+ﯾﺎدﮔﯿﺮی
+
+<LTTextBoxHorizontal(38) 397.992,372.718,415.642,383.519 '  ﺑﻪ  \n'>
+  ﺑﻪ
+
+<LTTextBoxHorizontal(39) 415.679,372.718,447.937,383.519 'ﻣﺸﺘﺎق\n'>
+ﻣﺸﺘﺎق
+
+<LTTextBoxHorizontal(40) 452.055,372.718,484.667,383.519 'ﻫﺴﺘﻢ.\n'>
+ﻫﺴﺘﻢ.
+
+<LTTextBoxHorizontal(41) 488.800,372.718,513.884,383.519 'ﻓﻼح  \n'>
+ﻓﻼح
+
+<LTTextBoxHorizontal(42) 513.922,372.718,543.185,383.519 'ﻣﻄﻬﺮه\n'>
+ﻣﻄﻬﺮه
+
+<LTTextBoxHorizontal(43) 543.236,372.718,562.627,383.519 '  ﻣﻦ\n'>
+  ﻣﻦ
+
+<LTTextBoxHorizontal(44) 473.673,348.811,514.919,359.612 'ﺧﻮدآﻣﻮز.\n'>
+ﺧﻮدآﻣﻮز.
+
+<LTTextBoxHorizontal(45) 514.982,348.811,562.696,359.612 '  ﺻﻮرت   ﺑﻪ\n'>
+  ﺻﻮرت   ﺑﻪ
+
+<LTTextBoxHorizontal(46) 491.099,300.997,538.237,311.798 ': ﻣﻦ   ﻫﺎی  \n'>
+: ﻣﻦ   ﻫﺎی
+
+<LTTextBoxHorizontal(47) 538.274,300.997,562.710,311.798 'ﭘﺮوژه\n'>
+ﭘﺮوژه
+
+<LTTextBoxHorizontal(48) 259.663,253.183,284.386,263.985 'ﻫﺎی  \n'>
+ﻫﺎی
+
+<LTTextBoxHorizontal(49) 284.423,253.183,326.796,263.985 'ﺗﮑﻨﻮﻟﻮژی\n'>
+ﺗﮑﻨﻮﻟﻮژی
+
+<LTTextBoxHorizontal(50) 326.834,253.183,341.768,263.985 '  از  \n'>
+  از
+
+<LTTextBoxHorizontal(51) 341.805,253.183,378.050,263.985 'اﺳﺘﻔﺎده\n'>
+اﺳﺘﻔﺎده
+
+<LTTextBoxHorizontal(52) 378.068,253.183,403.011,263.985 '  ﺑﺎ  و \n'>
+  ﺑﺎ  و
+
+<LTTextBoxHorizontal(53) 403.049,253.183,456.100,263.985 'اﺳﺖ  SPA \n'>
+اﺳﺖ  SPA
+
+<LTTextBoxHorizontal(54) 456.137,253.183,479.795,263.985 'ﯾﮏ ، \n'>
+ﯾﮏ ،
+
+<LTTextBoxHorizontal(55) 479.819,253.183,497.050,263.985 'اﻧﺪ  \n'>
+اﻧﺪ
+
+<LTTextBoxHorizontal(56) 497.087,253.183,538.179,263.985 'ﻓﺮاﻧﺖ  ی\n'>
+ﻓﺮاﻧﺖ  ی
+
+<LTTextBoxHorizontal(57) 538.256,253.183,562.692,263.985 'ﭘﺮوژه\n'>
+ﭘﺮوژه
+
+<LTTextBoxHorizontal(58) 234.316,229.277,257.891,240.078 ': ﺷﺪه\n'>
+: ﺷﺪه
+
+<LTTextBoxHorizontal(59) 262.031,229.277,292.494,240.078 'ﺳﺎﺧﺘﻪ\n'>
+ﺳﺎﺧﺘﻪ
+
+<LTTextBoxHorizontal(60) 292.562,229.277,562.650,240.078 ' html, css, bootstrap, js, vue3, vue cli, vue router, vuex\n'>
+ html, css, bootstrap, js, vue3, vue cli, vue router, vuex
+
+<LTTextBoxHorizontal(61) 340.889,205.370,562.593,216.171 'https://github.com/MotahareFallah/myFrontend\n'>
+https://github.com/MotahareFallah/myFrontend
+
+<LTTextBoxHorizontal(62) 98.940,157.556,135.185,168.357 'اﺳﺘﻔﺎده\n'>
+اﺳﺘﻔﺎده
+
+<LTTextBoxHorizontal(63) 135.203,157.556,155.556,168.357 '  ﻫﻮا\n'>
+  ﻫﻮا
+
+<LTTextBoxHorizontal(64) 155.622,157.556,169.401,168.357 ' و \n'>
+ و
+
+<LTTextBoxHorizontal(65) 169.439,157.556,187.140,168.357 'آب  \n'>
+آب
+
+<LTTextBoxHorizontal(66) 187.178,157.556,225.447,168.357 'وﺿﻌﯿﺖ\n'>
+وﺿﻌﯿﺖ
+
+<LTTextBoxHorizontal(67) 225.493,157.556,239.272,168.357 ' و \n'>
+ و
+
+<LTTextBoxHorizontal(68) 239.310,157.556,286.858,168.357 'ﺟﻐﺮاﻓﯿﺎﯾﯽ\n'>
+ﺟﻐﺮاﻓﯿﺎﯾﯽ
+
+<LTTextBoxHorizontal(69) 290.987,157.556,334.483,168.357 'ﻣﺨﺘﺼﺎت\n'>
+ﻣﺨﺘﺼﺎت
+
+<LTTextBoxHorizontal(70) 338.601,157.556,385.221,168.357 'ﺗﺸﺨﯿﺺ  \n'>
+ﺗﺸﺨﯿﺺ
+
+<LTTextBoxHorizontal(71) 385.258,157.556,485.714,168.357 'ﺑﺮای  api  دو   از   ﮐﻪ   ﻫﻮا\n'>
+ﺑﺮای  api  دو   از   ﮐﻪ   ﻫﻮا
+
+<LTTextBoxHorizontal(72) 485.780,157.556,499.559,168.357 ' و \n'>
+ و
+
+<LTTextBoxHorizontal(73) 499.596,157.556,517.298,168.357 'آب  \n'>
+آب
+
+<LTTextBoxHorizontal(74) 517.335,157.556,562.692,168.357 'اﭘﻠﯿﮑﯿﺸﻦ\n'>
+اﭘﻠﯿﮑﯿﺸﻦ
+
+<LTTextBoxHorizontal(75) 212.138,133.649,239.779,144.450 ' : ﺷﺪه\n'>
+ : ﺷﺪه
+
+<LTTextBoxHorizontal(76) 243.918,133.649,274.381,144.450 'ﺳﺎﺧﺘﻪ\n'>
+ﺳﺎﺧﺘﻪ
+
+<LTTextBoxHorizontal(77) 274.497,133.649,413.603,144.450 ' html, css, bootstap, js  ﻫﺎی  \n'>
+ html, css, bootstap, js  ﻫﺎی
+
+<LTTextBoxHorizontal(78) 413.641,133.649,456.014,144.450 'ﺗﮑﻨﻮﻟﻮژی\n'>
+ﺗﮑﻨﻮﻟﻮژی
+
+<LTTextBoxHorizontal(79) 456.051,133.649,470.985,144.450 '  از  \n'>
+  از
+
+<LTTextBoxHorizontal(80) 471.022,133.649,507.268,144.450 'اﺳﺘﻔﺎده\n'>
+اﺳﺘﻔﺎده
+
+<LTTextBoxHorizontal(81) 507.286,133.649,532.229,144.450 '  ﺑﺎ  و \n'>
+  ﺑﺎ  و
+
+<LTTextBoxHorizontal(82) 532.266,133.649,562.627,144.450 'ﻣﯿﮑﻨﺪ.\n'>
+ﻣﯿﮑﻨﺪ.
+
+<LTTextBoxHorizontal(83) 340.169,109.742,562.658,120.543 'https://github.com/MotahareFallah/weatherApp\n'>
+https://github.com/MotahareFallah/weatherApp
+
+<LTTextBoxHorizontal(84) 74.745,61.928,95.622,72.730 'ﺑﺎ  و \n'>
+ﺑﺎ  و
+
+<LTTextBoxHorizontal(85) 95.659,61.928,114.376,72.730 'ﮐﻨﺪ.\n'>
+ﮐﻨﺪ.
+
+<LTTextBoxHorizontal(86) 114.413,61.928,133.476,72.730 'ﻣﯽ  \n'>
+ﻣﯽ
+
+<LTTextBoxHorizontal(87) 133.513,61.928,162.841,72.730 'ﺗﺮﺟﻤﻪ\n'>
+ﺗﺮﺟﻤﻪ
+
+<LTTextBoxHorizontal(88) 166.945,61.928,190.626,72.730 'زﺑﺎن  \n'>
+زﺑﺎن
+
+<LTTextBoxHorizontal(89) 190.663,61.928,223.000,72.730 'ﭼﻨﺪﯾﻦ\n'>
+ﭼﻨﺪﯾﻦ
+
+<LTTextBoxHorizontal(90) 223.065,61.928,272.144,72.730 '  ﺑﻪ   را   ﺷﺪه\n'>
+  ﺑﻪ   را   ﺷﺪه
+
+<LTTextBoxHorizontal(91) 276.284,61.928,294.589,72.730 'وارد\n'>
+وارد
+
+<LTTextBoxHorizontal(92) 298.701,61.928,338.101,72.730 'اﻧﮕﻠﯿﺴﯽ\n'>
+اﻧﮕﻠﯿﺴﯽ
+
+<LTTextBoxHorizontal(93) 342.185,61.928,384.235,72.730 'ﻣﺘﻦ  api \n'>
+ﻣﺘﻦ  api
+
+<LTTextBoxHorizontal(94) 384.272,61.928,416.022,72.730 'ﯾﮏ   از  \n'>
+ﯾﮏ   از
+
+<LTTextBoxHorizontal(95) 416.060,61.928,452.305,72.730 'اﺳﺘﻔﺎده\n'>
+اﺳﺘﻔﺎده
+
+<LTTextBoxHorizontal(96) 452.323,61.928,482.723,72.730 '  ﺑﺎ   ﮐﻪ  \n'>
+  ﺑﺎ   ﮐﻪ
+
+<LTTextBoxHorizontal(97) 482.760,61.928,513.220,72.730 'ﻣﺘﺮﺟﻢ\n'>
+ﻣﺘﺮﺟﻢ
+
+<LTTextBoxHorizontal(98) 517.338,61.928,562.694,72.730 'اﭘﻠﯿﮑﯿﺸﻦ\n'>
+اﭘﻠﯿﮑﯿﺸﻦ
+
+<LTTextBoxHorizontal(99) 267.440,38.021,291.015,48.823 ': ﺷﺪه\n'>
+: ﺷﺪه
+
+<LTTextBoxHorizontal(100) 295.155,38.021,325.618,48.823 'ﺳﺎﺧﺘﻪ\n'>
+ﺳﺎﺧﺘﻪ
+
+<LTTextBoxHorizontal(101) 325.686,38.021,469.050,48.823 ' html, css, js, bootstrap  ﻫﺎی  \n'>
+ html, css, js, bootstrap  ﻫﺎی
+
+<LTTextBoxHorizontal(102) 469.087,38.021,511.460,48.823 'ﺗﮑﻨﻮﻟﻮژی\n'>
+ﺗﮑﻨﻮﻟﻮژی
+
+<LTTextBoxHorizontal(103) 511.498,38.021,526.432,48.823 '  از  \n'>
+  از
+
+<LTTextBoxHorizontal(104) 526.469,38.021,562.714,48.823 'اﺳﺘﻔﺎده\n'>
+اﺳﺘﻔﺎده
+
+<LTTextBoxHorizontal(0) 312.806,795.697,562.676,806.498 'https://github.com/MotahareFallah/translatorWebapp\n'>
+https://github.com/MotahareFallah/translatorWebapp
+
+<LTTextBoxHorizontal(1) 75.753,747.883,123.476,758.685 'ﻣﺎ   ﺑﻪ   ﺷﺪه\n'>
+ﻣﺎ   ﺑﻪ   ﺷﺪه
+
+<LTTextBoxHorizontal(2) 127.615,747.883,145.920,758.685 'وارد\n'>
+وارد
+
+<LTTextBoxHorizontal(3) 150.032,747.883,168.581,758.685 'ﻋﺪد\n'>
+ﻋﺪد
+
+<LTTextBoxHorizontal(4) 172.697,747.883,207.829,758.685 'ﺑﺮای   را  \n'>
+ﺑﺮای   را
+
+<LTTextBoxHorizontal(5) 207.867,747.883,257.497,758.685 'ﺗﻮﺿﯿﺤﺎﺗﯽ\n'>
+ﺗﻮﺿﯿﺤﺎﺗﯽ
+
+<LTTextBoxHorizontal(6) 257.535,747.883,279.534,758.685 ' api \n'>
+ api
+
+<LTTextBoxHorizontal(7) 279.572,747.883,311.322,758.685 'ﯾﮏ   از  \n'>
+ﯾﮏ   از
+
+<LTTextBoxHorizontal(8) 311.359,747.883,347.604,758.685 'اﺳﺘﻔﺎده\n'>
+اﺳﺘﻔﺎده
+
+<LTTextBoxHorizontal(9) 347.622,747.883,378.022,758.685 '  ﺑﺎ   ﮐﻪ  \n'>
+  ﺑﺎ   ﮐﻪ
+
+<LTTextBoxHorizontal(10) 378.059,747.883,408.866,758.685 'رﯾﺎﺿﯽ\n'>
+رﯾﺎﺿﯽ
+
+<LTTextBoxHorizontal(11) 408.897,747.883,422.263,758.685 ' ی\n'>
+ ی
+
+<LTTextBoxHorizontal(12) 422.340,747.883,448.351,758.685 'درﺑﺎره\n'>
+درﺑﺎره
+
+<LTTextBoxHorizontal(13) 452.462,747.883,482.783,758.685 'ﺟﺎﻟﺐ  \n'>
+ﺟﺎﻟﺐ
+
+<LTTextBoxHorizontal(14) 482.821,747.883,513.121,758.685 'ﺣﻘﺎﯾﻖ\n'>
+ﺣﻘﺎﯾﻖ
+
+<LTTextBoxHorizontal(15) 517.250,747.883,562.606,758.685 'اﭘﻠﯿﮑﯿﺸﻦ\n'>
+اﭘﻠﯿﮑﯿﺸﻦ
+
+<LTTextBoxHorizontal(16) 326.199,723.976,349.774,734.778 ': ﺷﺪه\n'>
+: ﺷﺪه
+
+<LTTextBoxHorizontal(17) 353.914,723.976,384.377,734.778 'ﺳﺎﺧﺘﻪ\n'>
+ﺳﺎﺧﺘﻪ
+
+<LTTextBoxHorizontal(18) 384.446,723.976,523.963,734.778 ' html, css, js, bootstrap  ﺑﺎ  و \n'>
+ html, css, js, bootstrap  ﺑﺎ  و
+
+<LTTextBoxHorizontal(19) 524.001,723.976,547.567,734.778 'دﻫﺪ.\n'>
+دﻫﺪ.
+
+<LTTextBoxHorizontal(20) 547.613,723.976,562.596,734.778 'ﻣﯽ\n'>
+ﻣﯽ
+
+<LTTextBoxHorizontal(21) 327.784,700.069,562.651,710.871 'https://github.com/MotahareFallah/Math-fact-app\n'>
+https://github.com/MotahareFallah/Math-fact-app
+
+<LTTextBoxHorizontal(22) 196.872,652.256,220.447,663.057 ': ﺷﺪه\n'>
+: ﺷﺪه
+
+<LTTextBoxHorizontal(23) 224.586,652.256,255.049,663.057 'ﺳﺎﺧﺘﻪ\n'>
+ﺳﺎﺧﺘﻪ
+
+<LTTextBoxHorizontal(24) 255.118,652.256,362.304,663.057 ' html, css, js, vue3  از  \n'>
+ html, css, js, vue3  از
+
+<LTTextBoxHorizontal(25) 362.341,652.256,398.586,663.057 'اﺳﺘﻔﺎده\n'>
+اﺳﺘﻔﺎده
+
+<LTTextBoxHorizontal(26) 398.604,652.256,429.004,663.057 '  ﺑﺎ   ﮐﻪ  \n'>
+  ﺑﺎ   ﮐﻪ
+
+<LTTextBoxHorizontal(27) 429.041,652.256,467.438,663.057 'ﻣﺤﺼﻮل\n'>
+ﻣﺤﺼﻮل
+
+<LTTextBoxHorizontal(28) 467.490,652.256,495.190,663.057 '  ﺧﺮﯾﺪ\n'>
+  ﺧﺮﯾﺪ
+
+<LTTextBoxHorizontal(29) 499.320,652.256,523.662,663.057 'ﺑﺮای  \n'>
+ﺑﺮای
+
+<LTTextBoxHorizontal(30) 523.699,652.256,545.764,663.057 'ﭘﯿﺞ  \n'>
+ﭘﯿﺞ
+
+<LTTextBoxHorizontal(31) 545.801,652.256,562.577,663.057 'ﯾﮏ\n'>
+ﯾﮏ
+
+<LTTextBoxHorizontal(32) 340.457,628.349,562.611,639.150 'https://github.com/MotahareFallah/Vue-project\n'>
+https://github.com/MotahareFallah/Vue-project
+
+<LTTextBoxHorizontal(33) 513.963,540.922,527.996,553.884 'ﻫﺎﻫﺎ\n'>
+ﻫﺎﻫﺎ
+
+<LTTextBoxHorizontal(34) 527.746,540.922,562.669,553.884 'ﻣﻬﺎرت ﻣﻬﺎرت\n'>
+ﻣﻬﺎرت ﻣﻬﺎرت
+
+<LTTextBoxHorizontal(35) 493.548,498.013,528.812,508.814 'HTML5\n'>
+HTML5
+
+<LTTextBoxHorizontal(36) 500.893,474.106,528.778,484.907 'CSS3\n'>
+CSS3
+
+<LTTextBoxHorizontal(37) 482.458,450.199,528.829,461.001 'Bootstrap\n'>
+Bootstrap
+
+<LTTextBoxHorizontal(38) 480.298,426.292,528.805,437.094 'Javascript\n'>
+Javascript
+
+<LTTextBoxHorizontal(39) 504.061,402.385,528.789,413.187 'Vue3\n'>
+Vue3
+
+<LTTextBoxHorizontal(40) 481.882,378.479,528.934,389.280 'git, github\n'>
+git, github
+
+<LTTextBoxHorizontal(41) 475.079,326.912,523.817,339.874 'ﺗﺤﺼﯿﻠﯽ\nﺗﺤﺼﯿﻠﯽ\n'>
+ﺗﺤﺼﯿﻠﯽ
+ﺗﺤﺼﯿﻠﯽ
+
+<LTTextBoxHorizontal(42) 527.334,326.912,562.658,339.874 'ﺳﻮاﺑﻖ ﺳﻮاﺑﻖ\n'>
+ﺳﻮاﺑﻖ ﺳﻮاﺑﻖ
+
+<LTTextBoxHorizontal(43) 436.805,284.003,448.055,294.804 'ﻫﺎ\n'>
+ﻫﺎ
+
+<LTTextBoxHorizontal(44) 448.121,284.003,474.719,294.804 'ﮐﺎرﺑﺮد\n'>
+ﮐﺎرﺑﺮد
+
+<LTTextBoxHorizontal(45) 474.756,284.003,488.535,294.804 ' و \n'>
+ و
+
+<LTTextBoxHorizontal(46) 488.572,284.003,528.844,294.804 'رﯾﺎﺿﯿﺎت\n'>
+رﯾﺎﺿﯿﺎت
+
+<LTTextBoxHorizontal(47) 449.478,260.096,488.514,270.898 'ﻣﺎزﻧﺪران\n'>
+ﻣﺎزﻧﺪران
+
+<LTTextBoxHorizontal(48) 492.632,260.096,529.741,270.898 'داﻧﺸﮕﺎه\n'>
+داﻧﺸﮕﺎه
+
+<LTTextBoxHorizontal(49) 529.840,260.096,541.016,273.783 ' \uf111\n'>
+ 
+
+<LTTextBoxHorizontal(50) 456.535,236.189,541.016,249.876 '۱۳۹۶  ﺗﺎ  ۱۳۹۲  از  \uf10b\n'>
+۱۳۹۶  ﺗﺎ  ۱۳۹۲  از  
+
+<LTTextBoxHorizontal(51) 475.511,172.669,510.633,185.631 'ﻣﺴﻠﻂ ﻣﺴﻠﻂ\n'>
+ﻣﺴﻠﻂ ﻣﺴﻠﻂ
+
+<LTTextBoxHorizontal(52) 510.370,172.669,539.337,185.631 '   ﻫﺎی ﻫﺎی\n'>
+   ﻫﺎی ﻫﺎی
+
+<LTTextBoxHorizontal(53) 539.088,172.669,562.723,185.631 'زﺑﺎن زﺑﺎن\n'>
+زﺑﺎن زﺑﺎن
+
+<LTTextBoxHorizontal(54) 440.117,124.432,445.496,135.233 '(\n'>
+(
+
+<LTTextBoxHorizontal(55) 445.543,124.432,480.310,135.233 'ﻣﺘﻮﺳﻂ\n'>
+ﻣﺘﻮﺳﻂ
+
+<LTTextBoxHorizontal(56) 480.361,124.432,489.368,135.233 ') \n'>
+)
+
+<LTTextBoxHorizontal(57) 489.371,124.432,528.771,135.233 'اﻧﮕﻠﯿﺴﯽ\n'>
+اﻧﮕﻠﯿﺴﯽ
+
+<LTTextBoxHorizontal(0) 257.162,655.568,302.085,666.369 'Jobinja  |   | \nJobinja\n'>
+Jobinja  |   |
+Jobinja
+
+<LTTextBoxHorizontal(1) 301.841,655.568,337.656,666.369 'ﺟﺎﺑﯿﻨﺠﺎ\nﺟﺎﺑﯿﻨﺠﺎ\n'>
+ﺟﺎﺑﯿﻨﺠﺎ
+ﺟﺎﺑﯿﻨﺠﺎ
+
+<LTTextBoxHorizontal(2) 200.832,631.661,250.287,642.462 'اﺳﺘﺨﺪاﻣﯽ\n'>
+اﺳﺘﺨﺪاﻣﯽ
+
+<LTTextBoxHorizontal(3) 254.371,631.661,272.123,642.462 'اﺑﺰار\n'>
+اﺑﺰار
+
+<LTTextBoxHorizontal(4) 276.207,631.661,298.522,642.462 'ﺗﺮﯾﻦ\n'>
+ﺗﺮﯾﻦ
+
+<LTTextBoxHorizontal(5) 298.559,631.661,323.648,642.462 'ﺻﺮﻓﻪ\n'>
+ﺻﺮﻓﻪ
+
+<LTTextBoxHorizontal(6) 323.729,631.661,347.063,642.462 'ﺑﻪ  و \n'>
+ﺑﻪ  و
+
+<LTTextBoxHorizontal(7) 347.100,631.661,369.414,642.462 'ﺗﺮﯾﻦ\n'>
+ﺗﺮﯾﻦ
+
+<LTTextBoxHorizontal(8) 369.452,631.661,394.161,642.462 'ﺳﺮﯾﻊ\n'>
+ﺳﺮﯾﻊ
+
+<LTTextBoxHorizontal(9) 242.237,595.801,310.892,606.602 'GM-1754431 : \n'>
+GM-1754431 :
+
+<LTTextBoxHorizontal(10) 310.916,595.801,336.630,606.602 'ﻣﺮﺟﻊ\n'>
+ﻣﺮﺟﻊ
+
+<LTTextBoxHorizontal(11) 336.681,595.801,352.759,606.602 '  ﮐﺪ\n'>
+  ﮐﺪ
+
+<LTTextBoxHorizontal(12) 241.877,571.894,298.722,582.695 '۱۴۰۱/۰۵/۰۴ : \n'>
+۱۴۰۱/۰۵/۰۴ :
+
+<LTTextBoxHorizontal(13) 298.746,571.894,324.134,582.695 'اﯾﺠﺎد\n'>
+اﯾﺠﺎد
+
+<LTTextBoxHorizontal(14) 328.218,571.894,353.185,582.695 'ﺗﺎرﯾﺦ\n'>
+ﺗﺎرﯾﺦ
+
+<LTTextBoxHorizontal(15) 267.512,547.987,295.456,558.788 'آﻧﻼﯾﻦ\n'>
+آﻧﻼﯾﻦ
+
+<LTTextBoxHorizontal(16) 299.518,547.987,327.522,558.788 'ﻧﺴﺨﻪ\n'>
+ﻧﺴﺨﻪ

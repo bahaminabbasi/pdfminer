@@ -1,0 +1,145 @@
+{1: {'x0': 54, 'y0': 237, 'x1': 145, 'y1': 199, 'page_number': 1}}
+LinkedIn, Pinterest,
+Resume Templates,
+Build this template
+
+{2: {'x0': 35, 'y0': 266, 'x1': 97, 'y1': 256, 'page_number': 1}}
+Place of birth
+
+{3: {'x0': 35, 'y0': 283, 'x1': 89, 'y1': 273, 'page_number': 1}}
+San Antonio
+
+{4: {'x0': 35, 'y0': 312, 'x1': 103, 'y1': 302, 'page_number': 1}}
+Driving license
+
+{5: {'x0': 35, 'y0': 328, 'x1': 51, 'y1': 318, 'page_number': 1}}
+Full
+
+{6: {'x0': 35, 'y0': 357, 'x1': 60, 'y1': 347, 'page_number': 1}}
+Skills
+
+{7: {'x0': 35, 'y0': 373, 'x1': 75, 'y1': 363, 'page_number': 1}}
+AutoCAD
+
+{8: {'x0': 35, 'y0': 413, 'x1': 145, 'y1': 389, 'page_number': 1}}
+Industry Trends & Sales
+Forecasting
+
+{9: {'x0': 35, 'y0': 454, 'x1': 143, 'y1': 429, 'page_number': 1}}
+Knowledge of Technical
+Diagrams
+
+{10: {'x0': 35, 'y0': 479, 'x1': 88, 'y1': 469, 'page_number': 1}}
+Engineering
+
+{11: {'x0': 35, 'y0': 505, 'x1': 152, 'y1': 495, 'page_number': 1}}
+Agile Project Management
+
+{12: {'x0': 35, 'y0': 542, 'x1': 84, 'y1': 532, 'page_number': 1}}
+Languages
+
+{13: {'x0': 35, 'y0': 558, 'x1': 68, 'y1': 548, 'page_number': 1}}
+English
+
+{14: {'x0': 35, 'y0': 584, 'x1': 62, 'y1': 574, 'page_number': 1}}
+Dutch
+
+{15: {'x0': 35, 'y0': 621, 'x1': 73, 'y1': 611, 'page_number': 1}}
+Hobbies
+
+{16: {'x0': 35, 'y0': 637, 'x1': 142, 'y1': 627, 'page_number': 1}}
+Piano, Debate, Triathlon
+
+{17: {'x0': 211, 'y0': 93, 'x1': 322, 'y1': 47, 'page_number': 1}}
+Janine Nel
+Sales Engineer
+
+{18: {'x0': 211, 'y0': 150, 'x1': 460, 'y1': 125, 'page_number': 1}}
+1515 Pacific Ave, Los Angeles, CA 90291, United States
+3868683442  ·  email@email.com
+
+{19: {'x0': 210, 'y0': 277, 'x1': 569, 'y1': 201, 'page_number': 1}}
+Profile
+Deadline- focused Sales Engineer with six years experience in technical sales,
+contributing to the 30% growth of income for regional technology solutions
+provider over five states, producing and assisting long-term contracts with Fortune
+500 clients, and growing Territory sixfold up to $350M.
+
+{20: {'x0': 210, 'y0': 314, 'x1': 360, 'y1': 298, 'page_number': 1}}
+Employment History
+
+{21: {'x0': 210, 'y0': 333, 'x1': 406, 'y1': 322, 'page_number': 1}}
+Sales Engineer, Engen Oil, Jacksonville
+
+{22: {'x0': 210, 'y0': 349, 'x1': 312, 'y1': 339, 'page_number': 1}}
+May 2022 — May 2022
+
+{23: {'x0': 210, 'y0': 383, 'x1': 569, 'y1': 359, 'page_number': 1}}
+Primary duty was to recognize and provide current and future customer necessities
+in areas of filtration and lubrication products and services.
+
+{24: {'x0': 222, 'y0': 445, 'x1': 565, 'y1': 393, 'page_number': 1}}
+• Initiated Lubrication Fundamentals classes for employees and customers,
+which provided education on basic product info, machine elements that
+need lubrication, application methods, storing lubricant, and lubricant
+conservation and handling.
+
+{25: {'x0': 222, 'y0': 460, 'x1': 555, 'y1': 450, 'page_number': 1}}
+• Designed and applied a highly effective industrial filtration program that
+
+{26: {'x0': 232, 'y0': 502, 'x1': 567, 'y1': 464, 'page_number': 1}}
+produced up to 2,000 gallons of processed oil weekly, which resulted in a
+considerable expense saving for the customer and improved profits for the
+company.
+
+{27: {'x0': 222, 'y0': 517, 'x1': 536, 'y1': 507, 'page_number': 1}}
+• Designed and applied for numerous lubrication programs, providing
+
+{28: {'x0': 232, 'y0': 531, 'x1': 506, 'y1': 521, 'page_number': 1}}
+additional value-added services and improved profit margins.
+
+{29: {'x0': 222, 'y0': 545, 'x1': 529, 'y1': 535, 'page_number': 1}}
+• Functioned as a consultant on Best-in-Class Lubrication programs.
+
+{30: {'x0': 210, 'y0': 568, 'x1': 427, 'y1': 557, 'page_number': 1}}
+Sales Engineer, Quest Medical, Los Angeles
+
+{31: {'x0': 210, 'y0': 584, 'x1': 332, 'y1': 574, 'page_number': 1}}
+January 2019 — April 2021
+
+{32: {'x0': 210, 'y0': 632, 'x1': 569, 'y1': 594, 'page_number': 1}}
+Accountable for day-to-day program management, customer relationships, and
+estimating the shaping and assembly of medical programs for critical Fortune 500
+Clients: Pall Life Sciences, Baxter Healthcare, and Quest Medical.
+
+{33: {'x0': 222, 'y0': 694, 'x1': 568, 'y1': 642, 'page_number': 1}}
+• Designed and presented tailored technical solutions to top-3 state
+automotive dealers, driving sales from $3M to 11$M over t5 years.
+• Supervised logistics and Proof of concept pilots worth up to $800,000.
+• Exceeded yearly quota by 145% by actively outperforming the competition
+
+{34: {'x0': 232, 'y0': 723, 'x1': 535, 'y1': 699, 'page_number': 1}}
+in public tenders and providing 97.5% satisfaction support over the
+managed Territory of current accounts.
+
+{35: {'x0': 210, 'y0': 792, 'x1': 513, 'y1': 744, 'page_number': 1}}
+Education
+Masters in Industrial Engineering, Harvard University, Miami
+January 2019 — May 2022
+
+{36: {'x0': 207, 'y0': 56, 'x1': 566, 'y1': 31, 'page_number': 2}}
+ Professional Engineering (PE) Exam, National Council of Examiners for
+Engineering and Surveying (NCEES), Newton
+
+{37: {'x0': 210, 'y0': 72, 'x1': 357, 'y1': 62, 'page_number': 2}}
+January 2018 — December 2019
+
+{38: {'x0': 210, 'y0': 114, 'x1': 269, 'y1': 98, 'page_number': 2}}
+Courses
+
+{39: {'x0': 210, 'y0': 147, 'x1': 557, 'y1': 122, 'page_number': 2}}
+Certified Associate in Project Management, Project Management
+(CAPM) Project Management Institute (PMI), Seneca, South Carolina.
+
+{40: {'x0': 210, 'y0': 163, 'x1': 312, 'y1': 153, 'page_number': 2}}
+May 2021 — May 2021

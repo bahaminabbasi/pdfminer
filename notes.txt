@@ -1,0 +1,30 @@
+LTRect:
+['__class__', '__delattr__', '__dict__', '__dir__', '__doc__', '__eq__', '__format__',
+'__ge__', '__getattribute__', '__gt__', '__hash__', '__init__', '__init_subclass__', 
+'__le__', '__lt__', '__module__', '__ne__', '__new__', '__reduce__', '__reduce_ex__', 
+'__repr__', '__setattr__', '__sizeof__', '__str__', '__subclasshook__', '__weakref__', 
+'analyze', 'bbox', 'evenodd', 'fill', 'get_pts', 'hdistance', 'height', 'hoverlap', 'is_empty',
+'is_hoverlap', 'is_voverlap', 'linewidth', 'non_stroking_color', 'pts', 'set_bbox', 'stroke',
+'stroking_color', 'vdistance', 'voverlap', 'width', 'x0', 'x1', 'y0', 'y1']
+
+LTFigure methods:
+['__class__', '__class_getitem__', '__delattr__', '__dict__', '__dir__',
+'__doc__', '__eq__', '__format__', '__ge__', '__getattribute__', '__gt__',
+'__hash__', '__init__', '__init_subclass__', '__iter__', '__le__', '__len__',
+'__lt__', '__module__', '__ne__', '__new__', '__orig_bases__', '__parameters__',
+'__reduce__', '__reduce_ex__', '__repr__', '__setattr__', '__sizeof__', '__slots__',
+'__str__', '__subclasshook__', '__weakref__', '_is_protocol', '_objs', 'add',
+'analyze', 'bbox', 'extend', 'group_objects', 'group_textboxes', 'group_textlines',
+'groups', 'hdistance', 'height', 'hoverlap', 'is_empty', 'is_hoverlap', 'is_voverlap',
+'matrix', 'name', 'set_bbox', 'vdistance', 'voverlap', 'width', 'x0', 'x1', 'y0', 'y1']
+
+LayoutContainer:
+['__class__', '__class_getitem__', '__delattr__', '__dict__', '__dir__', '__doc__',
+'__eq__', '__format__', '__ge__', '__getattribute__', '__gt__', '__hash__', '__init__',
+'__init_subclass__', '__iter__', '__le__', '__len__', '__lt__', '__module__', '__ne__',
+'__new__', '__orig_bases__', '__parameters__', '__reduce__', '__reduce_ex__', '__repr__',
+'__setattr__', '__sizeof__', '__slots__', '__str__', '__subclasshook__', '__weakref__',
+'_is_protocol', '_objs', 'add', 'analyze', 'bbox', 'extend', 'group_objects',
+'group_textboxes', 'group_textlines', 'groups', 'hdistance', 'height', 'hoverlap',
+'is_empty', 'is_hoverlap', 'is_voverlap', 'matrix', 'name', 'set_bbox', 'vdistance',
+'voverlap', 'width', 'x0', 'x1', 'y0', 'y1']
