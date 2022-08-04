@@ -12,7 +12,7 @@ from pdf2image import convert_from_path
 from pathlib import Path
 
 import fitz
-file_path = "./pdf_files/eng1.pdf"
+file_path = "./pdf_files/jobi-1.pdf"
 doc = fitz.open(file_path)
 page = doc[0]
 height = page.rect.height
