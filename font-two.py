@@ -4,7 +4,7 @@ from pdfminer.layout import LTTextContainer, LTChar, LTText
 from pdfminer.layout import LTTextBoxHorizontal
 import re
 
-file_path = "./pdf_files/jobi-1.pdf"
+file_path = "./pdf_files/jobi-2.pdf"
 page_number = 1
 cc = 1
 result = {}
@@ -53,6 +53,7 @@ def get_font_color(element):
             for character in text_line:
                 if isinstance(character, LTChar):
                     if char['non_stroking_color'] not in color_list:
+                        color_list.append(char['stroking_color'])
                         color_list.append(char['non_stroking_color'])
         except:
             error_count += 1 
@@ -70,10 +71,10 @@ with open(file_path, 'rb') as scr_file:
                         "x1": round(element.x1),
                         "y1": round(element.y1),
                         "page_number": page_number,
-                        "content": element.get_text(),
+                        "content": re.sub('\n', '',element.get_text()),
                         'font_name':get_font_name(element),
                         'font_sieze':get_font_size(element),
-                        'text_color':get_font_color(element),
+                        # 'text_color':get_font_color(element),
                     }
                     
                     # result[cc].update(font_list)

@@ -120,11 +120,5 @@ def finder(box):
 
 
 
-box = {'x0': 284, 'y0': 335, 'x1': 312, 'y1': 343, 'page_number': 1, 'content': 'HTML5\n', 'font_name': ['BAAAAA+IRANYekanWeb'], 'font_sieze': [8], 'text_color': [(1, 1, 1)]}
-#  and result[cc]["font_name"] == box["font_name"] and result[cc]['font_sieze'] == box["font_sieze"]
-section_box = {'x0': 528, 'y0': 541, 'x1': 563, 'y1': 554, 'page_number': 1, 'content': 'ﻣﻬﺎرت ﻣﻬﺎرت\n', 'font_name': ['QJCAAA+IRANSans-Bold'], 'font_sieze': [13], 'text_color': [[0.976470588, 0.650980392, 0.043137254]]}
-item_box = {'x0': 494, 'y0': 498, 'x1': 529, 'y1': 509, 'page_number': 1, 'content': 'HTML5\n', 'font_name': ['QECAAA+IRANSans'], 'font_sieze': [11], 'text_color': [[0.976470588, 0.650980392, 0.043137254]]}
-
-
 
 finder(section_box)
