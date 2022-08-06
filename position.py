@@ -109,7 +109,7 @@ target_box_2 = {
 # get_boxes()
 
 def language_position_target(target_box):
-    document = open('./jobi-1.pdf', 'rb')
+    document = open('./right-blue-1.pdf', 'rb')
     rsrcmgr = PDFResourceManager()
     laparams = LAParams()
     device = PDFPageAggregator(rsrcmgr, laparams=laparams)

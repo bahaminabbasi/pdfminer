@@ -4,7 +4,7 @@ from pdfminer.layout import LTTextContainer, LTChar, LTText
 from pdfminer.layout import LTTextBoxHorizontal
 import re
 
-file_path = "./pdf_files/jobi-2.pdf"
+file_path = "./pdf_files/right-blue-1.pdf"
 page_number = 1
 cc = 1
 result = {}
@@ -71,7 +71,8 @@ with open(file_path, 'rb') as scr_file:
                         "x1": round(element.x1),
                         "y1": round(element.y1),
                         "page_number": page_number,
-                        "content": re.sub('\n', '',element.get_text()),
+                        # "content": re.sub('\n', '', element.get_text()),
+                        "content": element.get_text(),
                         'font_name':get_font_name(element),
                         'font_sieze':get_font_size(element),
                         # 'text_color':get_font_color(element),
