@@ -1,10 +1,10 @@
 import pdfplumber
 from pdfminer.high_level import extract_pages
-from pdfminer.layout import LTTextContainer, LTChar, LTText
+from pdfminer.layout import LTTextContainer, LTChar, LTText, LTRect
 from pdfminer.layout import LTTextBoxHorizontal
 import re
 
-file_path = "./pdf_files/right-blue-1.pdf"
+file_path = "./pdf_files/jobi-4.pdf"
 page_number = 1
 cc = 1
 result = {}
@@ -24,9 +24,9 @@ def get_font_name(element):
         try:
             for character in text_line:
                 if isinstance(character, LTChar):
-                    # cleaned_font_name = re.sub(r'^.*?\+', '', character.fontname)
-                    if character.fontname not in font_list:
-                        font_list.append(character.fontname)
+                    cleaned_font_name = re.sub(r'^.*?\+', '', character.fontname)
+                    if cleaned_font_name not in font_list:
+                        font_list.append(cleaned_font_name)
         except:
             error_count += 1 
     return font_list

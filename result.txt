@@ -1,129 +1,180 @@
-{'x0': 254, 'y0': 783, 'x1': 376, 'y1': 805, 'page_number': 1, 'content': 'ﯽﯾازﺮﯿﻣ ﺪﻣﺎﺣ\n', 'font_name': ['AAAAAA+IRANYekanWeb-Medium'], 'font_sieze': [22]}
-{'x0': 287, 'y0': 763, 'x1': 375, 'y1': 774, 'page_number': 1, 'content': 'Django Developer\n', 'font_name': ['AAAAAA+IRANYekanWeb-Medium'], 'font_sieze': [11]}
-{'x0': 331, 'y0': 709, 'x1': 385, 'y1': 723, 'page_number': 1, 'content': 'ﻦﻣ هرﺎﺑرد\n', 'font_name': ['AAAAAA+IRANYekanWeb-Medium'], 'font_sieze': [14]}
-{'x0': 41, 'y0': 679, 'x1': 384, 'y1': 688, 'page_number': 1, 'content': 'Python و C++ یﺎﻫ نﺎﺑز ﺎﺑ ﯽﺴﯾﻮﻧ ﻪﻣﺎﻧﺮﺑ یﺮﯿﮔدﺎﯾ ﻪﺑ عوﺮﺷ ﺶﯿﭘ لﺎﺳ ود زا .ﻢﺘﺴﻫ ﯽﯾازﺮﯿﻣ ﺪﻣﺎﺣ ﻦﻣ\n', 'font_name': ['BAAAAA+IRANYekanWeb'], 'font_sieze': [8]}
-{'x0': 29, 'y0': 661, 'x1': 384, 'y1': 669, 'page_number': 1, 'content': '... و Python یﺎﻫ نﺎﺑز ﻪﺑ (ﯽﻫﺎﮕﺸﻧاد یﺎﻫ هژوﺮﭘ و تﺎﻨﯾﺮﻤﺗ) یﺮﺴﻨﻠﯾﺮﻓ ﯽﻋﻮﻧ ﻪﺑ ﻪﮐ ﻪﻟﺎﺳ ﮏﯾ دوﺪﺣرد .مدﺮﮐ\n', 'font_name': ['BAAAAA+IRANYekanWeb'], 'font_sieze': [8]}
-{'x0': 25, 'y0': 643, 'x1': 384, 'y1': 651, 'page_number': 1, 'content': 'ﻮﮕﻨﺟ کرو ﻢﯾﺮﻓ یﺮﯿﮔدﺎﯾ ﻪﺑ عوﺮﺷ ﺶﯿﭘ هﺎﻣ ۹ دوﺪﺣ .هدﺮﮐ ﻢﻠﺌﺴﻣ ﻞﺣ ترﺎﻬﻣ ﻪﺑ ﯽﻧﺎﯾﺎﺷ ﮏﻤﮐ و مﺪﯿﻣ مﺎﺠﻧا\n', 'font_name': ['BAAAAA+IRANYekanWeb'], 'font_sieze': [8]}
-{'x0': 52, 'y0': 625, 'x1': 385, 'y1': 633, 'page_number': 1, 'content': 'ﻪﮐ مداد مﺎﺠﻧا ور ﯽﻨﯾﺮﻤﺗ هژوﺮﭘ ﻦﯾﺪﻨﭼ و مدﺮﮐ ﯽﺷزﻮﻣآ یﺎﻫ ﻢﻠﯿﻓ و بﺎﺘﮐ ،ﺖﻨﻣﻮﯿﮐاد زا هدﺎﻔﺘﺳا ﺎﺑ\n', 'font_name': ['BAAAAA+IRANYekanWeb'], 'font_sieze': [8]}
-{'x0': 28, 'y0': 607, 'x1': 384, 'y1': 615, 'page_number': 1, 'content': 'ﺮﺿﺎﺣ لﺎﺣرد .ﺪﺷﺎﺒﯿﻣ دﻮﺟﻮﻣ ﻢﻫ بﺎﻫ ﺖﯿﮔ ﮏﻨﯿﻟ ﻦﯿﻨﭽﻤﻫ و هﺪﺷ هدروآ هژوﺮﭘ ﺶﺨﺑ رد نﻮﺸﻠﻣﺎﮐ تﺎﻋﻼﻃا\n', 'font_name': ['BAAAAA+IRANYekanWeb'], 'font_sieze': [8]}
-{'x0': 174, 'y0': 589, 'x1': 385, 'y1': 597, 'page_number': 1, 'content': ' .ﻢﺘﺴﻫ (یرﺎﮐرود ﺎﯾ یرﻮﻀﺣ ترﻮﺻ ﻪﺑ) رﺎﮐ رازﺎﺑ ﻪﺑ دورو لﺎﺒﻧد ﻪﺑ\n', 'font_name': ['BAAAAA+IRANYekanWeb'], 'font_sieze': [8]}
-{'x0': 37, 'y0': 570, 'x1': 385, 'y1': 578, 'page_number': 1, 'content': '.ﺪﯿﺸﯿﻣ هژوﺮﭘ بﺎﻫ ﺖﯿﮔ یرﻮﺘﯾزﺎﭙﯾر دراو و هﺪﺷ ﻞﺻو ﮏﻨﯿﻟ ، ﺪﯿﻨﮐ ﮏﯿﻠﮐ ﺎﻫ هژوﺮﭘ ﻢﺳا یور ﻪﮔا  : ﻪﺘﮑﻧ\n', 'font_name': ['BAAAAA+IRANYekanWeb'], 'font_sieze': [8]}
-{'x0': 25, 'y0': 484, 'x1': 84, 'y1': 492, 'page_number': 1, 'content': 'نﻮﻨﮐا ﺎﺗ ۱۳۹۹ ﺮﻬﻣ\n', 'font_name': ['BAAAAA+IRANYekanWeb'], 'font_sieze': [8]}
-{'x0': 249, 'y0': 483, 'x1': 334, 'y1': 493, 'page_number': 1, 'content': 'IT تﺎﻋﻼﻃا یروﺎﻨﻓ\n', 'font_name': ['AAAAAA+IRANYekanWeb-Medium'], 'font_sieze': [11]}
-{'x0': 145, 'y0': 467, 'x1': 334, 'y1': 475, 'page_number': 1, 'content': 'ناﺪﻤﻫ - یدﺎﺑآﺪﺳا ﻦﯾﺪﻟا لﺎﻤﺟ ﺪﯿﺳ هﺎﮕﺸﻧاد - ﯽﺳﺎﻨﺷرﺎﮐ\n', 'font_name': ['BAAAAA+IRANYekanWeb'], 'font_sieze': [8]}
-{'x0': 327, 'y0': 515, 'x1': 384, 'y1': 529, 'page_number': 1, 'content': 'تﻼﯿﺼﺤﺗ\n', 'font_name': ['AAAAAA+IRANYekanWeb-Medium'], 'font_sieze': [14]}
-{'x0': 296, 'y0': 420, 'x1': 384, 'y1': 434, 'page_number': 1, 'content': 'ﯽﻨﻓ یﺎﻫ ترﺎﻬﻣ\n', 'font_name': ['AAAAAA+IRANYekanWeb-Medium'], 'font_sieze': [14]}
-{'x0': 164, 'y0': 387, 'x1': 209, 'y1': 395, 'page_number': 1, 'content': 'لﺎﺳ ۲ و ۱ ﻦﯿﺑ\n', 'font_name': ['CAAAAA+IRANYekanWeb-Bold'], 'font_sieze': [8]}
-{'x0': 284, 'y0': 387, 'x1': 312, 'y1': 395, 'page_number': 1, 'content': 'Python\n', 'font_name': ['BAAAAA+IRANYekanWeb'], 'font_sieze': [8]}
-{'x0': 201, 'y0': 361, 'x1': 245, 'y1': 369, 'page_number': 1, 'content': 'لﺎﺳ ۱ زا ﺮﺘﻤﮐ\n', 'font_name': ['CAAAAA+IRANYekanWeb-Bold'], 'font_sieze': [8]}
-{'x0': 284, 'y0': 361, 'x1': 313, 'y1': 369, 'page_number': 1, 'content': 'Django\n', 'font_name': ['BAAAAA+IRANYekanWeb'], 'font_sieze': [8]}
-{'x0': 201, 'y0': 335, 'x1': 245, 'y1': 342, 'page_number': 1, 'content': 'لﺎﺳ ۱ زا ﺮﺘﻤﮐ\n', 'font_name': ['CAAAAA+IRANYekanWeb-Bold'], 'font_sieze': [8]}
-{'x0': 284, 'y0': 335, 'x1': 312, 'y1': 343, 'page_number': 1, 'content': 'HTML5\n', 'font_name': ['BAAAAA+IRANYekanWeb'], 'font_sieze': [8]}
-{'x0': 201, 'y0': 309, 'x1': 245, 'y1': 316, 'page_number': 1, 'content': 'لﺎﺳ ۱ زا ﺮﺘﻤﮐ\n', 'font_name': ['CAAAAA+IRANYekanWeb-Bold'], 'font_sieze': [8]}
-{'x0': 284, 'y0': 308, 'x1': 306, 'y1': 317, 'page_number': 1, 'content': 'CS S 3\n', 'font_name': ['BAAAAA+IRANYekanWeb'], 'font_sieze': [8]}
-{'x0': 201, 'y0': 282, 'x1': 245, 'y1': 290, 'page_number': 1, 'content': 'لﺎﺳ ۱ زا ﺮﺘﻤﮐ\n', 'font_name': ['CAAAAA+IRANYekanWeb-Bold'], 'font_sieze': [8]}
-{'x0': 284, 'y0': 282, 'x1': 384, 'y1': 290, 'page_number': 1, 'content': 'Django RES T Fram e work\n', 'font_name': ['BAAAAA+IRANYekanWeb'], 'font_sieze': [8]}
-{'x0': 335, 'y0': 251, 'x1': 384, 'y1': 260, 'page_number': 1, 'content': ' ﺎﻫ ترﺎﻬﻣ ﺮﯾﺎﺳ\n', 'font_name': ['BAAAAA+IRANYekanWeb'], 'font_sieze': [8]}
-{'x0': 260, 'y0': 233, 'x1': 312, 'y1': 241, 'page_number': 1, 'content': ' Pos tgre SQL  \n', 'font_name': ['CAAAAA+IRANYekanWeb-Bold', 'BAAAAA+IRANYekanWeb'], 'font_sieze': [7, 8]}
-{'x0': 366, 'y0': 233, 'x1': 378, 'y1': 240, 'page_number': 1, 'content': ' Git\n', 'font_name': ['CAAAAA+IRANYekanWeb-Bold'], 'font_sieze': [7]}
-{'x0': 286, 'y0': 158, 'x1': 384, 'y1': 172, 'page_number': 1, 'content': 'زﺎﺑ ﻦﺘﻣ یﺎﻫ هژوﺮﭘ\n', 'font_name': ['AAAAAA+IRANYekanWeb-Medium'], 'font_sieze': [14]}
-{'x0': 25, 'y0': 127, 'x1': 104, 'y1': 135, 'page_number': 1, 'content': 'نﻮﻨﮐا ﺎﺗ ۱۴۰۱ ﺖﺸﻬﺒﯾدرا\n', 'font_name': ['BAAAAA+IRANYekanWeb'], 'font_sieze': [8]}
-{'x0': 282, 'y0': 126, 'x1': 334, 'y1': 137, 'page_number': 1, 'content': 'TennisAPI\n', 'font_name': ['AAAAAA+IRANYekanWeb-Medium'], 'font_sieze': [11]}
-{'x0': 171, 'y0': 105, 'x1': 196, 'y1': 114, 'page_number': 1, 'content': 'REST  \n', 'font_name': ['CAAAAA+IRANYekanWeb-Bold', 'BAAAAA+IRANYekanWeb'], 'font_sieze': [7, 8]}
-{'x0': 205, 'y0': 105, 'x1': 254, 'y1': 114, 'page_number': 1, 'content': 'Pos tgre SQL  \n', 'font_name': ['CAAAAA+IRANYekanWeb-Bold', 'BAAAAA+IRANYekanWeb'], 'font_sieze': [7, 8]}
-{'x0': 263, 'y0': 105, 'x1': 296, 'y1': 114, 'page_number': 1, 'content': 'Dja ngo  \n', 'font_name': ['CAAAAA+IRANYekanWeb-Bold', 'BAAAAA+IRANYekanWeb'], 'font_sieze': [7, 8]}
-{'x0': 305, 'y0': 106, 'x1': 328, 'y1': 113, 'page_number': 1, 'content': 'Python\n', 'font_name': ['CAAAAA+IRANYekanWeb-Bold'], 'font_sieze': [7]}
-{'x0': 234, 'y0': 82, 'x1': 333, 'y1': 90, 'page_number': 1, 'content': 'ﺲﯿﻨﺗ تﺎﻘﺑﺎﺴﻣ API ﺖﯾﺎﺴﺑو\n', 'font_name': ['BAAAAA+IRANYekanWeb'], 'font_sieze': [8]}
-{'x0': 269, 'y0': 60, 'x1': 334, 'y1': 68, 'page_number': 1, 'content': '  :ﯽﻠﯿﻤﮑﺗ تﺎﺤﯿﺿﻮﺗ\n', 'font_name': ['BAAAAA+IRANYekanWeb'], 'font_sieze': [8]}
-{'x0': 34, 'y0': 42, 'x1': 334, 'y1': 50, 'page_number': 1, 'content': '.ﺖﺳا هﺪﺷ دﺎﺠﯾا ﺲﯿﻨﺗ تﺎﻘﺑﺎﺴﻣ تﺎﻋﻼﻃا ﺖﺒﺛ ﻢﺘﺴﯿﺳ یزﺎﺳ ﻪﯿﺒﺷ رﻮﻈﻨﻣ ﻪﺑ ﺖﯾﺎﺳ ﻦﯾا\n', 'font_name': ['BAAAAA+IRANYekanWeb'], 'font_sieze': [8]}
-{'x0': 40, 'y0': 23, 'x1': 334, 'y1': 31, 'page_number': 1, 'content': 'ﯽﺳﺮﺘﺳد رﻮﻈﻨﻣ ﻪﺑ .ﺖﺳا ﺲﯿﻨﺗ ﺖﺑﺎﻗر و ﻦﮑﯾزﺎﺑ ،ﺖﯿﻠﻣ ندﺮﮐ ﻪﻓﺎﺿا ﺮﯿﻈﻧ ﯽﺗﺎﻧﺎﮑﻣا یاراد\n', 'font_name': ['BAAAAA+IRANYekanWeb'], 'font_sieze': [8]}
-{'x0': 48, 'y0': 5, 'x1': 334, 'y1': 13, 'page_number': 1, 'content': '.ﺪﻨﮑﯿﻣ هدﺎﻔﺘﺳا se rialize rs رد ﮏﻨﯿﻟ ﺮﭙﯾﺎﻫ ﺖﯿﻠﺑﺎﻗ زا ، ﻢﻫ ﻪﺑ ﻂﺒﺗﺮﻣ ﺎﯿﺷا ﻪﺑ ﺮﺗ ﺖﺣار\n', 'font_name': ['BAAAAA+IRANYekanWeb'], 'font_sieze': [8]}
-{'x0': 492, 'y0': 638, 'x1': 579, 'y1': 652, 'page_number': 1, 'content': 'سﺎﻤﺗ تﺎﻋﻼﻃا\n', 'font_name': ['AAAAAA+IRANYekanWeb-Medium'], 'font_sieze': [14]}
-{'x0': 522, 'y0': 614, 'x1': 564, 'y1': 622, 'page_number': 1, 'content': 'ناﺮﻬﺗ ، ناﺮﻬﺗ\n', 'font_name': ['BAAAAA+IRANYekanWeb'], 'font_sieze': [8]}
-{'x0': 511, 'y0': 598, 'x1': 563, 'y1': 607, 'page_number': 1, 'content': '۰۹۰۱ ۴۷۹ ۶۳۵۰\n', 'font_name': ['BAAAAA+IRANYekanWeb'], 'font_sieze': [8]}
-{'x0': 426, 'y0': 571, 'x1': 562, 'y1': 592, 'page_number': 1, 'content': 'Ham e dm irzae i2001offic ial@ gm ai\nl.c om\n', 'font_name': ['BAAAAA+IRANYekanWeb'], 'font_sieze': [8]}
-{'x0': 571, 'y0': 617, 'x1': 577, 'y1': 625, 'page_number': 1, 'content': '\uf3c5\n', 'font_name': ['DAAAAA+FontAwesome5FreeSolid'], 'font_sieze': [8]}
-{'x0': 570, 'y0': 601, 'x1': 578, 'y1': 609, 'page_number': 1, 'content': '\uf095\n', 'font_name': ['DAAAAA+FontAwesome5FreeSolid'], 'font_sieze': [8]}
-{'x0': 570, 'y0': 586, 'x1': 578, 'y1': 594, 'page_number': 1, 'content': '\uf0e0\n', 'font_name': ['DAAAAA+FontAwesome5FreeSolid'], 'font_sieze': [8]}
-{'x0': 426, 'y0': 519, 'x1': 433, 'y1': 527, 'page_number': 1, 'content': '۲۰\n', 'font_name': ['CAAAAA+IRANYekanWeb-Bold'], 'font_sieze': [8]}
-{'x0': 426, 'y0': 504, 'x1': 443, 'y1': 512, 'page_number': 1, 'content': 'دﺮﺠﻣ\n', 'font_name': ['CAAAAA+IRANYekanWeb-Bold'], 'font_sieze': [8]}
-{'x0': 426, 'y0': 488, 'x1': 436, 'y1': 496, 'page_number': 1, 'content': 'ﺎﻗآ\n', 'font_name': ['CAAAAA+IRANYekanWeb-Bold'], 'font_sieze': [8]}
-{'x0': 498, 'y0': 534, 'x1': 579, 'y1': 548, 'page_number': 1, 'content': 'یدﺮﻓ تﺎﻋﻼﻃا\n', 'font_name': ['AAAAAA+IRANYekanWeb-Medium'], 'font_sieze': [14]}
-{'x0': 568, 'y0': 520, 'x1': 579, 'y1': 527, 'page_number': 1, 'content': 'ﻦﺳ\n', 'font_name': ['BAAAAA+IRANYekanWeb'], 'font_sieze': [7]}
-{'x0': 543, 'y0': 505, 'x1': 579, 'y1': 512, 'page_number': 1, 'content': 'ﻞﻫﺄﺗ ﺖﯿﻌﺿو\n', 'font_name': ['BAAAAA+IRANYekanWeb'], 'font_sieze': [7]}
-{'x0': 557, 'y0': 490, 'x1': 578, 'y1': 496, 'page_number': 1, 'content': 'ﺖﯿﺴﻨﺟ\n', 'font_name': ['BAAAAA+IRANYekanWeb'], 'font_sieze': [7]}
-{'x0': 426, 'y0': 473, 'x1': 487, 'y1': 481, 'page_number': 1, 'content': 'ﯽﻠﯿﺼﺤﺗ ﺖﯿﻓﺎﻌﻣ\n', 'font_name': ['CAAAAA+IRANYekanWeb-Bold'], 'font_sieze': [8]}
-{'x0': 516, 'y0': 475, 'x1': 579, 'y1': 481, 'page_number': 1, 'content': 'یزﺎﺑﺮﺳ ﺖﻣﺪﺧ ﺖﯿﻌﺿو\n', 'font_name': ['BAAAAA+IRANYekanWeb'], 'font_sieze': [7]}
-{'x0': 492, 'y0': 437, 'x1': 579, 'y1': 451, 'page_number': 1, 'content': 'ﯽﻠﻐﺷ تﺎﻋﻼﻃا\n', 'font_name': ['AAAAAA+IRANYekanWeb-Medium'], 'font_sieze': [14]}
-{'x0': 426, 'y0': 409, 'x1': 525, 'y1': 429, 'page_number': 1, 'content': 'ﻞﻐﺷ یاﺮﺑ لﺎﻌﻓ  یﻮﺠﺘﺴﺟ رد\nﺪﯾﺪﺟ\n', 'font_name': ['CAAAAA+IRANYekanWeb-Bold'], 'font_sieze': [8]}
-{'x0': 558, 'y0': 412, 'x1': 579, 'y1': 427, 'page_number': 1, 'content': 'ﺖﯿﻌﺿو\nلﺎﻐﺘﺷا\n', 'font_name': ['BAAAAA+IRANYekanWeb'], 'font_sieze': [7]}
-{'x0': 426, 'y0': 394, 'x1': 460, 'y1': 402, 'page_number': 1, 'content': 'ﺖﻗو مﺎﻤﺗ\n', 'font_name': ['CAAAAA+IRANYekanWeb-Bold'], 'font_sieze': [8]}
-{'x0': 530, 'y0': 395, 'x1': 578, 'y1': 402, 'page_number': 1, 'content': 'ﺮﻈﻧ درﻮﻣ ﻞﻐﺷ عﻮﻧ\n', 'font_name': ['BAAAAA+IRANYekanWeb'], 'font_sieze': [7]}
-{'x0': 479, 'y0': 382, 'x1': 579, 'y1': 388, 'page_number': 1, 'content': 'مراد رﺎﮐ نﺎﮑﻣا ﺎﻫ نآ رد ﻪﮐ ﯽﯾﺎﻫﺮﻬﺷ\n', 'font_name': ['BAAAAA+IRANYekanWeb'], 'font_sieze': [7]}
-{'x0': 447, 'y0': 372, 'x1': 516, 'y1': 379, 'page_number': 1, 'content': 'زاﺮﯿﺷ   ج ﺪﻨﻨﺳ   ناﺮﻬﺗ\n', 'font_name': ['CAAAAA+IRANYekanWeb-Bold', 'BAAAAA+IRANYekanWeb'], 'font_sieze': [6, 7]}
-{'x0': 530, 'y0': 372, 'x1': 541, 'y1': 378, 'page_number': 1, 'content': 'ﺰﯾﺮﺒﺗ\n', 'font_name': ['CAAAAA+IRANYekanWeb-Bold'], 'font_sieze': [6]}
-{'x0': 546, 'y0': 372, 'x1': 573, 'y1': 379, 'page_number': 1, 'content': '  نﺎﻬﻔﺻ ا\n', 'font_name': ['BAAAAA+IRANYekanWeb', 'CAAAAA+IRANYekanWeb-Bold'], 'font_sieze': [7, 6]}
-{'x0': 450, 'y0': 359, 'x1': 501, 'y1': 366, 'page_number': 1, 'content': 'نا ﺪﻤﻫ   ﺪﻬﺸﻣ  \n', 'font_name': ['CAAAAA+IRANYekanWeb-Bold', 'BAAAAA+IRANYekanWeb'], 'font_sieze': [6, 7]}
-{'x0': 507, 'y0': 359, 'x1': 572, 'y1': 366, 'page_number': 1, 'content': 'هﺎﺸﻧﺎﻣﺮﮐ   ج ﺮﮐ   ﻢﻗ\n', 'font_name': ['CAAAAA+IRANYekanWeb-Bold', 'BAAAAA+IRANYekanWeb'], 'font_sieze': [6, 7]}
-{'x0': 468, 'y0': 321, 'x1': 578, 'y1': 335, 'page_number': 1, 'content': 'ﯽﻋﺎﻤﺘﺟا یﺎﻫ ﻪﮑﺒﺷ\n', 'font_name': ['AAAAAA+IRANYekanWeb-Medium'], 'font_sieze': [14]}
-{'x0': 521, 'y0': 296, 'x1': 575, 'y1': 309, 'page_number': 1, 'content': '\uf3fe\uf09b\uf16d\n', 'font_name': ['EAAAAA+FontAwesome5BrandsRegular'], 'font_sieze': [12]}
-{'x0': 472, 'y0': 269, 'x1': 579, 'y1': 278, 'page_number': 1, 'content': '۱۴۰۱ ﺖﺸﻬﺒﯾدرا ۲۷ :ﯽﻧﺎﺳرزور ﻪﺑ\n', 'font_name': ['CAAAAA+IRANYekanWeb-Bold', 'BAAAAA+IRANYekanWeb'], 'font_sieze': [8]}
-{'x0': 34, 'y0': 827, 'x1': 334, 'y1': 835, 'page_number': 1, 'content': 'هﺮﻬﺑ تﺎﻋﻼﻃا ندﺮﮐ ﺮﺘﻠﯿﻓ و یزﺎﺳ ﺐﺗﺮﻣ ، ﻮﺠﺘﺴﺟ یاﺮﺑ django filte r ﺖﯿﻠﺑﺎﻗ زا ﻦﯿﻨﭽﻤﻫ\n', 'font_name': ['BAAAAA+IRANYekanWeb'], 'font_sieze': [8]}
-{'x0': 36, 'y0': 809, 'x1': 334, 'y1': 817, 'page_number': 1, 'content': 'یﺎﻫ ﺶﺨﺑ رد ﺎﻫ ﺖﺳاﻮﺧرد داﺪﻌﺗ ﻪﮐ هداد ﺎﻣ ﻪﺑ ار نﺎﮑﻣا ﻦﯾا throttling زا هدﺎﻔﺘﺳا .دﺮﺒﯿﻣ\n', 'font_name': ['BAAAAA+IRANYekanWeb'], 'font_sieze': [8]}
-{'x0': 160, 'y0': 791, 'x1': 334, 'y1': 799, 'page_number': 1, 'content': '.ﻢﯿﻨﮐ دوﺪﺤﻣ ار توﺎﻔﺘﻣ یﺎﻫ ﺮﺑرﺎﮐ ﻂﺳﻮﺗ و ﻒﻠﺘﺨﻣ\n', 'font_name': ['BAAAAA+IRANYekanWeb'], 'font_sieze': [8]}
-{'x0': 266, 'y0': 768, 'x1': 334, 'y1': 777, 'page_number': 1, 'content': ' :هﺪﺷ هدﺎﻔﺘﺳا دراﻮﻣ\n', 'font_name': ['BAAAAA+IRANYekanWeb'], 'font_sieze': [8]}
-{'x0': 40, 'y0': 750, 'x1': 334, 'y1': 759, 'page_number': 1, 'content': 'CBV, Django Re st Fram e work(DRF), Postgre S QL, django filte rs, throttling,\n', 'font_name': ['BAAAAA+IRANYekanWeb'], 'font_sieze': [8]}
-{'x0': 139, 'y0': 733, 'x1': 333, 'y1': 741, 'page_number': 1, 'content': 'Hype rLinke dMode lS e ialize r, Custom  Pagination\n', 'font_name': ['BAAAAA+IRANYekanWeb'], 'font_sieze': [8]}
-{'x0': 25, 'y0': 700, 'x1': 104, 'y1': 709, 'page_number': 1, 'content': 'نﻮﻨﮐا ﺎﺗ ۱۴۰۱ ﺖﺸﻬﺒﯾدرا\n', 'font_name': ['BAAAAA+IRANYekanWeb'], 'font_sieze': [8]}
-{'x0': 309, 'y0': 699, 'x1': 334, 'y1': 710, 'page_number': 1, 'content': 'shop\n', 'font_name': ['AAAAAA+IRANYekanWeb-Medium'], 'font_sieze': [11]}
-{'x0': 74, 'y0': 679, 'x1': 95, 'y1': 687, 'page_number': 1, 'content': 'OOP  \n', 'font_name': ['CAAAAA+IRANYekanWeb-Bold', 'BAAAAA+IRANYekanWeb'], 'font_sieze': [7, 8]}
-{'x0': 105, 'y0': 679, 'x1': 130, 'y1': 687, 'page_number': 1, 'content': 'REST  \n', 'font_name': ['CAAAAA+IRANYekanWeb-Bold', 'BAAAAA+IRANYekanWeb'], 'font_sieze': [7, 8]}
-{'x0': 139, 'y0': 679, 'x1': 172, 'y1': 687, 'page_number': 1, 'content': 'Dja ngo  \n', 'font_name': ['CAAAAA+IRANYekanWeb-Bold', 'BAAAAA+IRANYekanWeb'], 'font_sieze': [7, 8]}
-{'x0': 181, 'y0': 679, 'x1': 241, 'y1': 687, 'page_number': 1, 'content': 'CSS   HTML  \n', 'font_name': ['CAAAAA+IRANYekanWeb-Bold', 'BAAAAA+IRANYekanWeb'], 'font_sieze': [7, 8]}
-{'x0': 250, 'y0': 679, 'x1': 282, 'y1': 687, 'page_number': 1, 'content': 'Python  \n', 'font_name': ['CAAAAA+IRANYekanWeb-Bold', 'BAAAAA+IRANYekanWeb'], 'font_sieze': [7, 8]}
-{'x0': 292, 'y0': 679, 'x1': 328, 'y1': 686, 'page_number': 1, 'content': 'Ja va Script\n', 'font_name': ['CAAAAA+IRANYekanWeb-Bold'], 'font_sieze': [7]}
-{'x0': 286, 'y0': 660, 'x1': 328, 'y1': 667, 'page_number': 1, 'content': 'Dja ngo ORM\n', 'font_name': ['CAAAAA+IRANYekanWeb-Bold'], 'font_sieze': [7]}
-{'x0': 267, 'y0': 636, 'x1': 333, 'y1': 644, 'page_number': 1, 'content': 'ﯽﻫﺎﮕﺷوﺮﻓ ﺖﯾﺎﺴﺑو\n', 'font_name': ['BAAAAA+IRANYekanWeb'], 'font_sieze': [8]}
-{'x0': 269, 'y0': 614, 'x1': 334, 'y1': 622, 'page_number': 1, 'content': '  :ﯽﻠﯿﻤﮑﺗ تﺎﺤﯿﺿﻮﺗ\n', 'font_name': ['BAAAAA+IRANYekanWeb'], 'font_sieze': [8]}
-{'x0': 33, 'y0': 595, 'x1': 334, 'y1': 604, 'page_number': 1, 'content': 'ﻪﺘﺳد رد ﺎﻫﻻﺎﮐ ﺶﯾﺎﻤﻧ ﺪﻨﻧﺎﻣ ﯽﺗﺎﻧﺎﮑﻣا یاراد و هﺪﺷ دﺎﺠﯾا سﺎﻨﺟا شوﺮﻓ فﺪﻫ ﺎﺑ ﺖﯾﺎﺳ ﻦﯾا\n', 'font_name': ['BAAAAA+IRANYekanWeb'], 'font_sieze': [8]}
-{'x0': 40, 'y0': 577, 'x1': 334, 'y1': 586, 'page_number': 1, 'content': '، ﻦﯿﻣدا ﻪﺑ تادﺎﻬﻨﺸﯿﭘ و تاﺮﻈﻧ لﺎﺳرا ،ﺖﻨﻣﺎﮐ ﻢﺘﺴﯿﺳ ، ﻻﺎﮐ مﺎﻧ سﺎﺳا ﺮﺑ ﻮﺠﺘﺴﺟ ، یﺪﻨﺑ\n', 'font_name': ['BAAAAA+IRANYekanWeb'], 'font_sieze': [8]}
-{'x0': 53, 'y0': 559, 'x1': 334, 'y1': 568, 'page_number': 1, 'content': '.ﺖﺳا بﺎﺴﺣ ﻪﯾﻮﺴﺗ و ﻒﯿﻔﺨﺗ ﺪﮐ لﺎﻤﻋا ، ﺪﯾﺮﺧ ﺪﺒﺳ ﻪﺑ ﻻﺎﮐ ﺮﻈﻧﺪﻣ داﺪﻌﺗ ندﺮﮐ ﻪﻓﺎﺿا\n', 'font_name': ['BAAAAA+IRANYekanWeb'], 'font_sieze': [8]}
-{'x0': 63, 'y0': 519, 'x1': 334, 'y1': 527, 'page_number': 1, 'content': 'CBV, FBV, Custom  Conte xt Proc e ssor, S e ssion, Custom  Adm in S ite ,\n', 'font_name': ['BAAAAA+IRANYekanWeb'], 'font_sieze': [8]}
-{'x0': 59, 'y0': 501, 'x1': 334, 'y1': 509, 'page_number': 1, 'content': 'Com m e nt and Contac t Form , m e ssage s, S e arc h Form , Django Re st\n', 'font_name': ['BAAAAA+IRANYekanWeb'], 'font_sieze': [8]}
-{'x0': 37, 'y0': 483, 'x1': 334, 'y1': 491, 'page_number': 1, 'content': 'Fram e work(DRF), vie wse ts and route rs, c ustom  re gistration, c rispy_form s\n', 'font_name': ['BAAAAA+IRANYekanWeb'], 'font_sieze': [8]}
-{'x0': 266, 'y0': 537, 'x1': 334, 'y1': 545, 'page_number': 1, 'content': ' :هﺪﺷ هدﺎﻔﺘﺳا دراﻮﻣ\n', 'font_name': ['BAAAAA+IRANYekanWeb'], 'font_sieze': [8]}
-{'x0': 25, 'y0': 451, 'x1': 104, 'y1': 460, 'page_number': 1, 'content': 'نﻮﻨﮐا ﺎﺗ ۱۴۰۱ ﺖﺸﻬﺒﯾدرا\n', 'font_name': ['BAAAAA+IRANYekanWeb'], 'font_sieze': [8]}
-{'x0': 288, 'y0': 450, 'x1': 333, 'y1': 461, 'page_number': 1, 'content': 'Portfolio\n', 'font_name': ['AAAAAA+IRANYekanWeb-Medium'], 'font_sieze': [11]}
-{'x0': 74, 'y0': 429, 'x1': 95, 'y1': 437, 'page_number': 1, 'content': 'OOP  \n', 'font_name': ['CAAAAA+IRANYekanWeb-Bold', 'BAAAAA+IRANYekanWeb'], 'font_sieze': [7, 8]}
-{'x0': 105, 'y0': 429, 'x1': 130, 'y1': 437, 'page_number': 1, 'content': 'REST  \n', 'font_name': ['CAAAAA+IRANYekanWeb-Bold', 'BAAAAA+IRANYekanWeb'], 'font_sieze': [7, 8]}
-{'x0': 139, 'y0': 429, 'x1': 172, 'y1': 437, 'page_number': 1, 'content': 'Dja ngo  \n', 'font_name': ['CAAAAA+IRANYekanWeb-Bold', 'BAAAAA+IRANYekanWeb'], 'font_sieze': [7, 8]}
-{'x0': 181, 'y0': 429, 'x1': 241, 'y1': 437, 'page_number': 1, 'content': 'CSS   HTML  \n', 'font_name': ['CAAAAA+IRANYekanWeb-Bold', 'BAAAAA+IRANYekanWeb'], 'font_sieze': [7, 8]}
-{'x0': 250, 'y0': 429, 'x1': 282, 'y1': 437, 'page_number': 1, 'content': 'Python  \n', 'font_name': ['CAAAAA+IRANYekanWeb-Bold', 'BAAAAA+IRANYekanWeb'], 'font_sieze': [7, 8]}
-{'x0': 292, 'y0': 430, 'x1': 328, 'y1': 437, 'page_number': 1, 'content': 'Ja va Script\n', 'font_name': ['CAAAAA+IRANYekanWeb-Bold'], 'font_sieze': [7]}
-{'x0': 286, 'y0': 410, 'x1': 328, 'y1': 417, 'page_number': 1, 'content': 'Dja ngo ORM\n', 'font_name': ['CAAAAA+IRANYekanWeb-Bold'], 'font_sieze': [7]}
-{'x0': 279, 'y0': 386, 'x1': 333, 'y1': 395, 'page_number': 1, 'content': 'ﯽﺼﺨﺷ ﺖﯾﺎﺴﺑو\n', 'font_name': ['BAAAAA+IRANYekanWeb'], 'font_sieze': [8]}
-{'x0': 269, 'y0': 365, 'x1': 334, 'y1': 373, 'page_number': 1, 'content': '  :ﯽﻠﯿﻤﮑﺗ تﺎﺤﯿﺿﻮﺗ\n', 'font_name': ['BAAAAA+IRANYekanWeb'], 'font_sieze': [8]}
-{'x0': 37, 'y0': 346, 'x1': 334, 'y1': 354, 'page_number': 1, 'content': 'هژوﺮﭘ ﺶﺨﺑ یاراد .ﺖﺳا هﺪﺷ دﺎﺠﯾا نآ رد ﯽﺼﺨﺷ رﺎﮐ ﻪﻧﻮﻤﻧ نداد راﺮﻗ فﺪﻫ ﺎﺑ ﺖﯾﺎﺳ ﻦﯾا\n', 'font_name': ['BAAAAA+IRANYekanWeb'], 'font_sieze': [8]}
-{'x0': 67, 'y0': 328, 'x1': 334, 'y1': 336, 'page_number': 1, 'content': '.ﺖﺳا یﺪﻨﺑ ﻪﺘﺳد سﺎﺳاﺮﺑ رﺎﺒﺧا ﺶﯾﺎﻤﻧ و ﺖﻨﻣﺎﮐ ﻢﺘﺴﯿﺳ ، ﯽﻧﺎﺳرﺮﺒﺧ گﻼﺑو ، ﺎﻫ\n', 'font_name': ['BAAAAA+IRANYekanWeb'], 'font_sieze': [8]}
-{'x0': 37, 'y0': 287, 'x1': 334, 'y1': 296, 'page_number': 1, 'content': 'CBV، Com m e nt and Contac t Form , Custom  Adm in S ite , Custom  Manage r,\n', 'font_name': ['BAAAAA+IRANYekanWeb'], 'font_sieze': [8]}
-{'x0': 52, 'y0': 269, 'x1': 334, 'y1': 278, 'page_number': 1, 'content': 'Te stCase , e asy thum bnails, m e ssage s, Django Re st Fram e work(DRF),\n', 'font_name': ['BAAAAA+IRANYekanWeb'], 'font_sieze': [8]}
-{'x0': 266, 'y0': 306, 'x1': 334, 'y1': 314, 'page_number': 1, 'content': '  :هﺪﺷ هدﺎﻔﺘﺳا دراﻮﻣ\n', 'font_name': ['BAAAAA+IRANYekanWeb'], 'font_sieze': [8]}
-{'x0': 25, 'y0': 220, 'x1': 94, 'y1': 228, 'page_number': 1, 'content': 'نﻮﻨﮐا ﺎﺗ ۱۴۰۰ ﺪﻨﻔﺳا\n', 'font_name': ['BAAAAA+IRANYekanWeb'], 'font_sieze': [8]}
-{'x0': 250, 'y0': 251, 'x1': 334, 'y1': 260, 'page_number': 1, 'content': 'vie wse ts and route rs\n', 'font_name': ['BAAAAA+IRANYekanWeb'], 'font_sieze': [8]}
-{'x0': 286, 'y0': 219, 'x1': 334, 'y1': 230, 'page_number': 1, 'content': 'NewsSite\n', 'font_name': ['AAAAAA+IRANYekanWeb-Medium'], 'font_sieze': [11]}
-{'x0': 74, 'y0': 197, 'x1': 95, 'y1': 206, 'page_number': 1, 'content': 'OOP  \n', 'font_name': ['CAAAAA+IRANYekanWeb-Bold', 'BAAAAA+IRANYekanWeb'], 'font_sieze': [7, 8]}
-{'x0': 105, 'y0': 197, 'x1': 130, 'y1': 206, 'page_number': 1, 'content': 'REST  \n', 'font_name': ['CAAAAA+IRANYekanWeb-Bold', 'BAAAAA+IRANYekanWeb'], 'font_sieze': [7, 8]}
-{'x0': 139, 'y0': 197, 'x1': 172, 'y1': 206, 'page_number': 1, 'content': 'Dja ngo  \n', 'font_name': ['CAAAAA+IRANYekanWeb-Bold', 'BAAAAA+IRANYekanWeb'], 'font_sieze': [7, 8]}
-{'x0': 181, 'y0': 197, 'x1': 241, 'y1': 206, 'page_number': 1, 'content': 'CSS   HTML  \n', 'font_name': ['CAAAAA+IRANYekanWeb-Bold', 'BAAAAA+IRANYekanWeb'], 'font_sieze': [7, 8]}
-{'x0': 250, 'y0': 197, 'x1': 282, 'y1': 206, 'page_number': 1, 'content': 'Python  \n', 'font_name': ['CAAAAA+IRANYekanWeb-Bold', 'BAAAAA+IRANYekanWeb'], 'font_sieze': [7, 8]}
-{'x0': 292, 'y0': 198, 'x1': 328, 'y1': 205, 'page_number': 1, 'content': 'Ja va Script\n', 'font_name': ['CAAAAA+IRANYekanWeb-Bold'], 'font_sieze': [7]}
-{'x0': 286, 'y0': 179, 'x1': 328, 'y1': 186, 'page_number': 1, 'content': 'Dja ngo ORM\n', 'font_name': ['CAAAAA+IRANYekanWeb-Bold'], 'font_sieze': [7]}
-{'x0': 286, 'y0': 155, 'x1': 333, 'y1': 164, 'page_number': 1, 'content': 'یﺮﺒﺧ ﺖﯾﺎﺴﺑو\n', 'font_name': ['BAAAAA+IRANYekanWeb'], 'font_sieze': [8]}
-{'x0': 269, 'y0': 133, 'x1': 334, 'y1': 141, 'page_number': 1, 'content': ' :ﯽﻠﯿﻤﮑﺗ تﺎﺤﯿﺿﻮﺗ\n', 'font_name': ['BAAAAA+IRANYekanWeb'], 'font_sieze': [8]}
-{'x0': 35, 'y0': 115, 'x1': 334, 'y1': 123, 'page_number': 1, 'content': 'و .ﺖﺳا هﺪﺷ دﺎﺠﯾا ﻒﻠﺘﺨﻣ یﺎﻫ یﺪﻨﺑ ﻪﺘﺳد رد رﺎﺒﺧا یراﺬﮔ کاﺮﺘﺷا ﻪﺑ فﺪﻫ ﺎﺑ ﺖﯾﺎﺳ ﻦﯾا\n', 'font_name': ['BAAAAA+IRANYekanWeb'], 'font_sieze': [8]}
-{'x0': 25, 'y0': 97, 'x1': 334, 'y1': 105, 'page_number': 1, 'content': 'ﺖﻨﻣﺎﮐ ﻢﺘﺴﯿﺳ ، اﻮﺘﺤﻣ سﺎﺳا ﺮﺑ ﻮﺠﺘﺴﺟ ، یﺪﻨﺑ ﻪﺘﺳد سﺎﺳا ﺮﺑ رﺎﺒﺧا ﺶﯾﺎﻤﻧ ﺪﻨﻧﺎﻣ ﯽﺗﺎﻧﺎﮑﻣا\n', 'font_name': ['BAAAAA+IRANYekanWeb'], 'font_sieze': [8]}
-{'x0': 52, 'y0': 39, 'x1': 334, 'y1': 47, 'page_number': 1, 'content': 'CBV, m e ssage s, Hit Count, Pagination, S e arc h Form , Com m e nt Form ,\n', 'font_name': ['BAAAAA+IRANYekanWeb'], 'font_sieze': [8]}
-{'x0': 241, 'y0': 78, 'x1': 333, 'y1': 87, 'page_number': 1, 'content': '.ﺖﺳاراد ار ﻦﯿﻣدا ﺎﺑ طﺎﺒﺗرا و\n', 'font_name': ['BAAAAA+IRANYekanWeb'], 'font_sieze': [8]}
-{'x0': 266, 'y0': 57, 'x1': 334, 'y1': 65, 'page_number': 1, 'content': '  :هﺪﺷ هدﺎﻔﺘﺳا دراﻮﻣ\n', 'font_name': ['BAAAAA+IRANYekanWeb'], 'font_sieze': [8]}
-{'x0': 67, 'y0': 827, 'x1': 334, 'y1': 835, 'page_number': 1, 'content': 'Contac t Form , Custom  Adm in S ite , Custom  Manage r, Django Re st\n', 'font_name': ['BAAAAA+IRANYekanWeb'], 'font_sieze': [8]}
-{'x0': 179, 'y0': 809, 'x1': 334, 'y1': 817, 'page_number': 1, 'content': 'Fram e work(DRF), vie wse ts and route rs\n', 'font_name': ['BAAAAA+IRANYekanWeb'], 'font_sieze': [8]
+{'x0': 470, 'y0': 777, 'x1': 504, 'y1': 792, 'page_number': 1, 'content': 'ﻓﻼح ﻓﻼح   \n', 'font_name': ['QJCAAA+IRANSans-Bold'], 'font_sieze': [15]}
+{'x0': 504, 'y0': 777, 'x1': 545, 'y1': 792, 'page_number': 1, 'content': 'ﻣﻄﻬﺮه\nﻣﻄﻬﺮه\n', 'font_name': ['QJCAAA+IRANSans-Bold'], 'font_sieze': [15]}
+{'x0': 430, 'y0': 757, 'x1': 447, 'y1': 768, 'page_number': 1, 'content': 'اﻧﺪ  \n', 'font_name': ['QECAAA+IRANSans'], 'font_sieze': [11]}
+{'x0': 447, 'y0': 757, 'x1': 479, 'y1': 768, 'page_number': 1, 'content': 'ﻓﺮاﻧﺖ  \n', 'font_name': ['QECAAA+IRANSans'], 'font_sieze': [11]}
+{'x0': 479, 'y0': 757, 'x1': 510, 'y1': 768, 'page_number': 1, 'content': 'ﺟﻮﻧﯿﻮر\n', 'font_name': ['QECAAA+IRANSans'], 'font_sieze': [11]}
+{'x0': 510, 'y0': 757, 'x1': 514, 'y1': 768, 'page_number': 1, 'content': '/\n', 'font_name': ['QECAAA+IRANSans'], 'font_sieze': [11]}
+{'x0': 514, 'y0': 757, 'x1': 545, 'y1': 768, 'page_number': 1, 'content': 'ﮐﺎرآﻣﻮز\n', 'font_name': ['QECAAA+IRANSans'], 'font_sieze': [11]}
+{'x0': 384, 'y0': 685, 'x1': 545, 'y1': 744, 'page_number': 1, 'content': 'دوﻟﻮﭘﺮ\n۰۹۱۱۷۸۴۵۲۷۳ \uf106\nmotaharefallah73@gmail.com \uf11c\n', 'font_name': ['QECAAA+IRANSans', 'QOCAAA+icons'], 'font_sieze': [11, 14]}
+{'x0': 436, 'y0': 661, 'x1': 471, 'y1': 672, 'page_number': 1, 'content': 'ﺟﺎﺑﯿﻨﺠﺎ\n', 'font_name': ['QECAAA+IRANSans'], 'font_sieze': [11]}
+{'x0': 476, 'y0': 661, 'x1': 501, 'y1': 672, 'page_number': 1, 'content': 'ﻃﺮﯾﻖ\n', 'font_name': ['QECAAA+IRANSans'], 'font_sieze': [11]}
+{'x0': 501, 'y0': 661, 'x1': 516, 'y1': 672, 'page_number': 1, 'content': '  از  \n', 'font_name': ['QECAAA+IRANSans'], 'font_sieze': [11]}
+{'x0': 516, 'y0': 661, 'x1': 545, 'y1': 672, 'page_number': 1, 'content': 'ﺗﻤﺎس\n', 'font_name': ['QECAAA+IRANSans'], 'font_sieze': [11]}
+{'x0': 468, 'y0': 598, 'x1': 513, 'y1': 611, 'page_number': 1, 'content': 'ﺷﺨﺼﯽ\nﺷﺨﺼﯽ\n', 'font_name': ['QJCAAA+IRANSans-Bold'], 'font_sieze': [13]}
+{'x0': 517, 'y0': 598, 'x1': 563, 'y1': 611, 'page_number': 1, 'content': 'اﻃﻼﻋﺎت\nاﻃﻼﻋﺎت\n', 'font_name': ['QJCAAA+IRANSans-Bold'], 'font_sieze': [13]}
+{'x0': 482, 'y0': 555, 'x1': 519, 'y1': 566, 'page_number': 1, 'content': ' ۱۳۷۳ : \n', 'font_name': ['QECAAA+IRANSans'], 'font_sieze': [11]}
+{'x0': 519, 'y0': 555, 'x1': 563, 'y1': 566, 'page_number': 1, 'content': 'ﺗﻮﻟﺪ   ﺳﺎل\n', 'font_name': ['QECAAA+IRANSans'], 'font_sieze': [11]}
+{'x0': 504, 'y0': 526, 'x1': 525, 'y1': 536, 'page_number': 1, 'content': 'زن  :\n', 'font_name': ['QECAAA+IRANSans'], 'font_sieze': [11]}
+{'x0': 525, 'y0': 526, 'x1': 563, 'y1': 536, 'page_number': 1, 'content': 'ﺟﻨﺴﯿﺖ\n', 'font_name': ['QECAAA+IRANSans'], 'font_sieze': [11]}
+{'x0': 464, 'y0': 496, 'x1': 489, 'y1': 507, 'page_number': 1, 'content': 'ﻣﺠﺮد\n', 'font_name': ['QECAAA+IRANSans'], 'font_sieze': [11]}
+{'x0': 489, 'y0': 496, 'x1': 496, 'y1': 507, 'page_number': 1, 'content': ' :\n', 'font_name': ['QECAAA+IRANSans'], 'font_sieze': [11]}
+{'x0': 496, 'y0': 496, 'x1': 524, 'y1': 507, 'page_number': 1, 'content': 'ﺗﺄﻫﻞ  \n', 'font_name': ['QECAAA+IRANSans'], 'font_sieze': [11]}
+{'x0': 524, 'y0': 496, 'x1': 563, 'y1': 507, 'page_number': 1, 'content': 'وﺿﻌﯿﺖ\n', 'font_name': ['QECAAA+IRANSans'], 'font_sieze': [11]}
+{'x0': 462, 'y0': 467, 'x1': 494, 'y1': 478, 'page_number': 1, 'content': 'ﺗﻬﺮان  :\n', 'font_name': ['QECAAA+IRANSans'], 'font_sieze': [11]}
+{'x0': 495, 'y0': 467, 'x1': 531, 'y1': 478, 'page_number': 1, 'content': 'ﺳﮑﻮﻧﺖ\n', 'font_name': ['QECAAA+IRANSans'], 'font_sieze': [11]}
+{'x0': 535, 'y0': 467, 'x1': 563, 'y1': 478, 'page_number': 1, 'content': 'اﺳﺘﺎن\n', 'font_name': ['QECAAA+IRANSans'], 'font_sieze': [11]}
+{'x0': 499, 'y0': 416, 'x1': 532, 'y1': 429, 'page_number': 1, 'content': 'ﻣﻦﻣﻦ   یی\n', 'font_name': ['QJCAAA+IRANSans-Bold'], 'font_sieze': [13]}
+{'x0': 532, 'y0': 416, 'x1': 563, 'y1': 429, 'page_number': 1, 'content': 'درﺑﺎره\nدرﺑﺎره\n', 'font_name': ['QJCAAA+IRANSans-Bold'], 'font_sieze': [13]}
+{'x0': 67, 'y0': 373, 'x1': 105, 'y1': 384, 'page_number': 1, 'content': 'ﯾﺎدﮔﯿﺮی\n', 'font_name': ['QECAAA+IRANSans'], 'font_sieze': [11]}
+{'x0': 105, 'y0': 373, 'x1': 139, 'y1': 384, 'page_number': 1, 'content': '  ﺑﻪ   ﻣﻨﺪ\n', 'font_name': ['QECAAA+IRANSans'], 'font_sieze': [11]}
+{'x0': 139, 'y0': 373, 'x1': 163, 'y1': 384, 'page_number': 1, 'content': 'ﻋﻼﻗﻪ\n', 'font_name': ['QECAAA+IRANSans'], 'font_sieze': [11]}
+{'x0': 163, 'y0': 373, 'x1': 177, 'y1': 384, 'page_number': 1, 'content': ' و \n', 'font_name': ['QECAAA+IRANSans'], 'font_sieze': [11]}
+{'x0': 177, 'y0': 373, 'x1': 209, 'y1': 384, 'page_number': 1, 'content': 'ﻧﻮﯾﺴﯽ\n', 'font_name': ['QECAAA+IRANSans'], 'font_sieze': [11]}
+{'x0': 213, 'y0': 373, 'x1': 240, 'y1': 384, 'page_number': 1, 'content': 'ﺑﺮﻧﺎﻣﻪ\n', 'font_name': ['QECAAA+IRANSans'], 'font_sieze': [11]}
+{'x0': 240, 'y0': 373, 'x1': 277, 'y1': 384, 'page_number': 1, 'content': ' ی ﺣﻮزه\n', 'font_name': ['QECAAA+IRANSans'], 'font_sieze': [11]}
+{'x0': 277, 'y0': 373, 'x1': 295, 'y1': 384, 'page_number': 1, 'content': '  در  \n', 'font_name': ['QECAAA+IRANSans'], 'font_sieze': [11]}
+{'x0': 295, 'y0': 373, 'x1': 323, 'y1': 384, 'page_number': 1, 'content': 'ﻣﺪاوم\n', 'font_name': ['QECAAA+IRANSans'], 'font_sieze': [11]}
+{'x0': 327, 'y0': 373, 'x1': 360, 'y1': 384, 'page_number': 1, 'content': 'رﺷﺪ  و \n', 'font_name': ['QECAAA+IRANSans'], 'font_sieze': [11]}
+{'x0': 360, 'y0': 373, 'x1': 398, 'y1': 384, 'page_number': 1, 'content': 'ﯾﺎدﮔﯿﺮی\n', 'font_name': ['QECAAA+IRANSans'], 'font_sieze': [11]}
+{'x0': 398, 'y0': 373, 'x1': 416, 'y1': 384, 'page_number': 1, 'content': '  ﺑﻪ  \n', 'font_name': ['QECAAA+IRANSans'], 'font_sieze': [11]}
+{'x0': 416, 'y0': 373, 'x1': 448, 'y1': 384, 'page_number': 1, 'content': 'ﻣﺸﺘﺎق\n', 'font_name': ['QECAAA+IRANSans'], 'font_sieze': [11]}
+{'x0': 452, 'y0': 373, 'x1': 485, 'y1': 384, 'page_number': 1, 'content': 'ﻫﺴﺘﻢ.\n', 'font_name': ['QECAAA+IRANSans'], 'font_sieze': [11]}
+{'x0': 489, 'y0': 373, 'x1': 514, 'y1': 384, 'page_number': 1, 'content': 'ﻓﻼح  \n', 'font_name': ['QECAAA+IRANSans'], 'font_sieze': [11]}
+{'x0': 514, 'y0': 373, 'x1': 543, 'y1': 384, 'page_number': 1, 'content': 'ﻣﻄﻬﺮه\n', 'font_name': ['QECAAA+IRANSans'], 'font_sieze': [11]}
+{'x0': 543, 'y0': 373, 'x1': 563, 'y1': 384, 'page_number': 1, 'content': '  ﻣﻦ\n', 'font_name': ['QECAAA+IRANSans'], 'font_sieze': [11]}
+{'x0': 474, 'y0': 349, 'x1': 515, 'y1': 360, 'page_number': 1, 'content': 'ﺧﻮدآﻣﻮز.\n', 'font_name': ['QECAAA+IRANSans'], 'font_sieze': [11]}
+{'x0': 515, 'y0': 349, 'x1': 563, 'y1': 360, 'page_number': 1, 'content': '  ﺻﻮرت   ﺑﻪ\n', 'font_name': ['QECAAA+IRANSans'], 'font_sieze': [11]}
+{'x0': 491, 'y0': 301, 'x1': 538, 'y1': 312, 'page_number': 1, 'content': ': ﻣﻦ   ﻫﺎی  \n', 'font_name': ['QECAAA+IRANSans'], 'font_sieze': [11]}
+{'x0': 538, 'y0': 301, 'x1': 563, 'y1': 312, 'page_number': 1, 'content': 'ﭘﺮوژه\n', 'font_name': ['QECAAA+IRANSans'], 'font_sieze': [11]}
+{'x0': 260, 'y0': 253, 'x1': 284, 'y1': 264, 'page_number': 1, 'content': 'ﻫﺎی  \n', 'font_name': ['QECAAA+IRANSans'], 'font_sieze': [11]}
+{'x0': 284, 'y0': 253, 'x1': 327, 'y1': 264, 'page_number': 1, 'content': 'ﺗﮑﻨﻮﻟﻮژی\n', 'font_name': ['QECAAA+IRANSans'], 'font_sieze': [11]}
+{'x0': 327, 'y0': 253, 'x1': 342, 'y1': 264, 'page_number': 1, 'content': '  از  \n', 'font_name': ['QECAAA+IRANSans'], 'font_sieze': [11]}
+{'x0': 342, 'y0': 253, 'x1': 378, 'y1': 264, 'page_number': 1, 'content': 'اﺳﺘﻔﺎده\n', 'font_name': ['QECAAA+IRANSans'], 'font_sieze': [11]}
+{'x0': 378, 'y0': 253, 'x1': 403, 'y1': 264, 'page_number': 1, 'content': '  ﺑﺎ  و \n', 'font_name': ['QECAAA+IRANSans'], 'font_sieze': [11]}
+{'x0': 403, 'y0': 253, 'x1': 456, 'y1': 264, 'page_number': 1, 'content': 'اﺳﺖ  SPA \n', 'font_name': ['QECAAA+IRANSans'], 'font_sieze': [11]}
+{'x0': 456, 'y0': 253, 'x1': 480, 'y1': 264, 'page_number': 1, 'content': 'ﯾﮏ ، \n', 'font_name': ['QECAAA+IRANSans'], 'font_sieze': [11]}
+{'x0': 480, 'y0': 253, 'x1': 497, 'y1': 264, 'page_number': 1, 'content': 'اﻧﺪ  \n', 'font_name': ['QECAAA+IRANSans'], 'font_sieze': [11]}
+{'x0': 497, 'y0': 253, 'x1': 538, 'y1': 264, 'page_number': 1, 'content': 'ﻓﺮاﻧﺖ  ی\n', 'font_name': ['QECAAA+IRANSans'], 'font_sieze': [11]}
+{'x0': 538, 'y0': 253, 'x1': 563, 'y1': 264, 'page_number': 1, 'content': 'ﭘﺮوژه\n', 'font_name': ['QECAAA+IRANSans'], 'font_sieze': [11]}
+{'x0': 234, 'y0': 229, 'x1': 258, 'y1': 240, 'page_number': 1, 'content': ': ﺷﺪه\n', 'font_name': ['QECAAA+IRANSans'], 'font_sieze': [11]}
+{'x0': 262, 'y0': 229, 'x1': 292, 'y1': 240, 'page_number': 1, 'content': 'ﺳﺎﺧﺘﻪ\n', 'font_name': ['QECAAA+IRANSans'], 'font_sieze': [11]}
+{'x0': 293, 'y0': 229, 'x1': 563, 'y1': 240, 'page_number': 1, 'content': ' html, css, bootstrap, js, vue3, vue cli, vue router, vuex\n', 'font_name': ['QECAAA+IRANSans'], 'font_sieze': [11]}
+{'x0': 341, 'y0': 205, 'x1': 563, 'y1': 216, 'page_number': 1, 'content': 'https://github.com/MotahareFallah/myFrontend\n', 'font_name': ['QECAAA+IRANSans'], 'font_sieze': [11]}
+{'x0': 99, 'y0': 158, 'x1': 135, 'y1': 168, 'page_number': 1, 'content': 'اﺳﺘﻔﺎده\n', 'font_name': ['QECAAA+IRANSans'], 'font_sieze': [11]}
+{'x0': 135, 'y0': 158, 'x1': 156, 'y1': 168, 'page_number': 1, 'content': '  ﻫﻮا\n', 'font_name': ['QECAAA+IRANSans'], 'font_sieze': [11]}
+{'x0': 156, 'y0': 158, 'x1': 169, 'y1': 168, 'page_number': 1, 'content': ' و \n', 'font_name': ['QECAAA+IRANSans'], 'font_sieze': [11]}
+{'x0': 169, 'y0': 158, 'x1': 187, 'y1': 168, 'page_number': 1, 'content': 'آب  \n', 'font_name': ['QECAAA+IRANSans'], 'font_sieze': [11]}
+{'x0': 187, 'y0': 158, 'x1': 225, 'y1': 168, 'page_number': 1, 'content': 'وﺿﻌﯿﺖ\n', 'font_name': ['QECAAA+IRANSans'], 'font_sieze': [11]}
+{'x0': 225, 'y0': 158, 'x1': 239, 'y1': 168, 'page_number': 1, 'content': ' و \n', 'font_name': ['QECAAA+IRANSans'], 'font_sieze': [11]}
+{'x0': 239, 'y0': 158, 'x1': 287, 'y1': 168, 'page_number': 1, 'content': 'ﺟﻐﺮاﻓﯿﺎﯾﯽ\n', 'font_name': ['QECAAA+IRANSans'], 'font_sieze': [11]}
+{'x0': 291, 'y0': 158, 'x1': 334, 'y1': 168, 'page_number': 1, 'content': 'ﻣﺨﺘﺼﺎت\n', 'font_name': ['QECAAA+IRANSans'], 'font_sieze': [11]}
+{'x0': 339, 'y0': 158, 'x1': 385, 'y1': 168, 'page_number': 1, 'content': 'ﺗﺸﺨﯿﺺ  \n', 'font_name': ['QECAAA+IRANSans'], 'font_sieze': [11]}
+{'x0': 385, 'y0': 158, 'x1': 486, 'y1': 168, 'page_number': 1, 'content': 'ﺑﺮای  api  دو   از   ﮐﻪ   ﻫﻮا\n', 'font_name': ['QECAAA+IRANSans'], 'font_sieze': [11]}
+{'x0': 486, 'y0': 158, 'x1': 500, 'y1': 168, 'page_number': 1, 'content': ' و \n', 'font_name': ['QECAAA+IRANSans'], 'font_sieze': [11]}
+{'x0': 500, 'y0': 158, 'x1': 517, 'y1': 168, 'page_number': 1, 'content': 'آب  \n', 'font_name': ['QECAAA+IRANSans'], 'font_sieze': [11]}
+{'x0': 517, 'y0': 158, 'x1': 563, 'y1': 168, 'page_number': 1, 'content': 'اﭘﻠﯿﮑﯿﺸﻦ\n', 'font_name': ['QECAAA+IRANSans'], 'font_sieze': [11]}
+{'x0': 212, 'y0': 134, 'x1': 240, 'y1': 144, 'page_number': 1, 'content': ' : ﺷﺪه\n', 'font_name': ['QECAAA+IRANSans'], 'font_sieze': [11]}
+{'x0': 244, 'y0': 134, 'x1': 274, 'y1': 144, 'page_number': 1, 'content': 'ﺳﺎﺧﺘﻪ\n', 'font_name': ['QECAAA+IRANSans'], 'font_sieze': [11]}
+{'x0': 274, 'y0': 134, 'x1': 414, 'y1': 144, 'page_number': 1, 'content': ' html, css, bootstap, js  ﻫﺎی  \n', 'font_name': ['QECAAA+IRANSans'], 'font_sieze': [11]}
+{'x0': 414, 'y0': 134, 'x1': 456, 'y1': 144, 'page_number': 1, 'content': 'ﺗﮑﻨﻮﻟﻮژی\n', 'font_name': ['QECAAA+IRANSans'], 'font_sieze': [11]}
+{'x0': 456, 'y0': 134, 'x1': 471, 'y1': 144, 'page_number': 1, 'content': '  از  \n', 'font_name': ['QECAAA+IRANSans'], 'font_sieze': [11]}
+{'x0': 471, 'y0': 134, 'x1': 507, 'y1': 144, 'page_number': 1, 'content': 'اﺳﺘﻔﺎده\n', 'font_name': ['QECAAA+IRANSans'], 'font_sieze': [11]}
+{'x0': 507, 'y0': 134, 'x1': 532, 'y1': 144, 'page_number': 1, 'content': '  ﺑﺎ  و \n', 'font_name': ['QECAAA+IRANSans'], 'font_sieze': [11]}
+{'x0': 532, 'y0': 134, 'x1': 563, 'y1': 144, 'page_number': 1, 'content': 'ﻣﯿﮑﻨﺪ.\n', 'font_name': ['QECAAA+IRANSans'], 'font_sieze': [11]}
+{'x0': 340, 'y0': 110, 'x1': 563, 'y1': 121, 'page_number': 1, 'content': 'https://github.com/MotahareFallah/weatherApp\n', 'font_name': ['QECAAA+IRANSans'], 'font_sieze': [11]}
+{'x0': 75, 'y0': 62, 'x1': 96, 'y1': 73, 'page_number': 1, 'content': 'ﺑﺎ  و \n', 'font_name': ['QECAAA+IRANSans'], 'font_sieze': [11]}
+{'x0': 96, 'y0': 62, 'x1': 114, 'y1': 73, 'page_number': 1, 'content': 'ﮐﻨﺪ.\n', 'font_name': ['QECAAA+IRANSans'], 'font_sieze': [11]}
+{'x0': 114, 'y0': 62, 'x1': 133, 'y1': 73, 'page_number': 1, 'content': 'ﻣﯽ  \n', 'font_name': ['QECAAA+IRANSans'], 'font_sieze': [11]}
+{'x0': 134, 'y0': 62, 'x1': 163, 'y1': 73, 'page_number': 1, 'content': 'ﺗﺮﺟﻤﻪ\n', 'font_name': ['QECAAA+IRANSans'], 'font_sieze': [11]}
+{'x0': 167, 'y0': 62, 'x1': 191, 'y1': 73, 'page_number': 1, 'content': 'زﺑﺎن  \n', 'font_name': ['QECAAA+IRANSans'], 'font_sieze': [11]}
+{'x0': 191, 'y0': 62, 'x1': 223, 'y1': 73, 'page_number': 1, 'content': 'ﭼﻨﺪﯾﻦ\n', 'font_name': ['QECAAA+IRANSans'], 'font_sieze': [11]}
+{'x0': 223, 'y0': 62, 'x1': 272, 'y1': 73, 'page_number': 1, 'content': '  ﺑﻪ   را   ﺷﺪه\n', 'font_name': ['QECAAA+IRANSans'], 'font_sieze': [11]}
+{'x0': 276, 'y0': 62, 'x1': 295, 'y1': 73, 'page_number': 1, 'content': 'وارد\n', 'font_name': ['QECAAA+IRANSans'], 'font_sieze': [11]}
+{'x0': 299, 'y0': 62, 'x1': 338, 'y1': 73, 'page_number': 1, 'content': 'اﻧﮕﻠﯿﺴﯽ\n', 'font_name': ['QECAAA+IRANSans'], 'font_sieze': [11]}
+{'x0': 342, 'y0': 62, 'x1': 384, 'y1': 73, 'page_number': 1, 'content': 'ﻣﺘﻦ  api \n', 'font_name': ['QECAAA+IRANSans'], 'font_sieze': [11]}
+{'x0': 384, 'y0': 62, 'x1': 416, 'y1': 73, 'page_number': 1, 'content': 'ﯾﮏ   از  \n', 'font_name': ['QECAAA+IRANSans'], 'font_sieze': [11]}
+{'x0': 416, 'y0': 62, 'x1': 452, 'y1': 73, 'page_number': 1, 'content': 'اﺳﺘﻔﺎده\n', 'font_name': ['QECAAA+IRANSans'], 'font_sieze': [11]}
+{'x0': 452, 'y0': 62, 'x1': 483, 'y1': 73, 'page_number': 1, 'content': '  ﺑﺎ   ﮐﻪ  \n', 'font_name': ['QECAAA+IRANSans'], 'font_sieze': [11]}
+{'x0': 483, 'y0': 62, 'x1': 513, 'y1': 73, 'page_number': 1, 'content': 'ﻣﺘﺮﺟﻢ\n', 'font_name': ['QECAAA+IRANSans'], 'font_sieze': [11]}
+{'x0': 517, 'y0': 62, 'x1': 563, 'y1': 73, 'page_number': 1, 'content': 'اﭘﻠﯿﮑﯿﺸﻦ\n', 'font_name': ['QECAAA+IRANSans'], 'font_sieze': [11]}
+{'x0': 267, 'y0': 38, 'x1': 291, 'y1': 49, 'page_number': 1, 'content': ': ﺷﺪه\n', 'font_name': ['QECAAA+IRANSans'], 'font_sieze': [11]}
+{'x0': 295, 'y0': 38, 'x1': 326, 'y1': 49, 'page_number': 1, 'content': 'ﺳﺎﺧﺘﻪ\n', 'font_name': ['QECAAA+IRANSans'], 'font_sieze': [11]}
+{'x0': 326, 'y0': 38, 'x1': 469, 'y1': 49, 'page_number': 1, 'content': ' html, css, js, bootstrap  ﻫﺎی  \n', 'font_name': ['QECAAA+IRANSans'], 'font_sieze': [11]}
+{'x0': 469, 'y0': 38, 'x1': 511, 'y1': 49, 'page_number': 1, 'content': 'ﺗﮑﻨﻮﻟﻮژی\n', 'font_name': ['QECAAA+IRANSans'], 'font_sieze': [11]}
+{'x0': 511, 'y0': 38, 'x1': 526, 'y1': 49, 'page_number': 1, 'content': '  از  \n', 'font_name': ['QECAAA+IRANSans'], 'font_sieze': [11]}
+{'x0': 526, 'y0': 38, 'x1': 563, 'y1': 49, 'page_number': 1, 'content': 'اﺳﺘﻔﺎده\n', 'font_name': ['QECAAA+IRANSans'], 'font_sieze': [11]}
+{'x0': 313, 'y0': 796, 'x1': 563, 'y1': 806, 'page_number': 1, 'content': 'https://github.com/MotahareFallah/translatorWebapp\n', 'font_name': ['QECAAA+IRANSans'], 'font_sieze': [11]}
+{'x0': 76, 'y0': 748, 'x1': 123, 'y1': 759, 'page_number': 1, 'content': 'ﻣﺎ   ﺑﻪ   ﺷﺪه\n', 'font_name': ['QECAAA+IRANSans'], 'font_sieze': [11]}
+{'x0': 128, 'y0': 748, 'x1': 146, 'y1': 759, 'page_number': 1, 'content': 'وارد\n', 'font_name': ['QECAAA+IRANSans'], 'font_sieze': [11]}
+{'x0': 150, 'y0': 748, 'x1': 169, 'y1': 759, 'page_number': 1, 'content': 'ﻋﺪد\n', 'font_name': ['QECAAA+IRANSans'], 'font_sieze': [11]}
+{'x0': 173, 'y0': 748, 'x1': 208, 'y1': 759, 'page_number': 1, 'content': 'ﺑﺮای   را  \n', 'font_name': ['QECAAA+IRANSans'], 'font_sieze': [11]}
+{'x0': 208, 'y0': 748, 'x1': 257, 'y1': 759, 'page_number': 1, 'content': 'ﺗﻮﺿﯿﺤﺎﺗﯽ\n', 'font_name': ['QECAAA+IRANSans'], 'font_sieze': [11]}
+{'x0': 258, 'y0': 748, 'x1': 280, 'y1': 759, 'page_number': 1, 'content': ' api \n', 'font_name': ['QECAAA+IRANSans'], 'font_sieze': [11]}
+{'x0': 280, 'y0': 748, 'x1': 311, 'y1': 759, 'page_number': 1, 'content': 'ﯾﮏ   از  \n', 'font_name': ['QECAAA+IRANSans'], 'font_sieze': [11]}
+{'x0': 311, 'y0': 748, 'x1': 348, 'y1': 759, 'page_number': 1, 'content': 'اﺳﺘﻔﺎده\n', 'font_name': ['QECAAA+IRANSans'], 'font_sieze': [11]}
+{'x0': 348, 'y0': 748, 'x1': 378, 'y1': 759, 'page_number': 1, 'content': '  ﺑﺎ   ﮐﻪ  \n', 'font_name': ['QECAAA+IRANSans'], 'font_sieze': [11]}
+{'x0': 378, 'y0': 748, 'x1': 409, 'y1': 759, 'page_number': 1, 'content': 'رﯾﺎﺿﯽ\n', 'font_name': ['QECAAA+IRANSans'], 'font_sieze': [11]}
+{'x0': 409, 'y0': 748, 'x1': 422, 'y1': 759, 'page_number': 1, 'content': ' ی\n', 'font_name': ['QECAAA+IRANSans'], 'font_sieze': [11]}
+{'x0': 422, 'y0': 748, 'x1': 448, 'y1': 759, 'page_number': 1, 'content': 'درﺑﺎره\n', 'font_name': ['QECAAA+IRANSans'], 'font_sieze': [11]}
+{'x0': 452, 'y0': 748, 'x1': 483, 'y1': 759, 'page_number': 1, 'content': 'ﺟﺎﻟﺐ  \n', 'font_name': ['QECAAA+IRANSans'], 'font_sieze': [11]}
+{'x0': 483, 'y0': 748, 'x1': 513, 'y1': 759, 'page_number': 1, 'content': 'ﺣﻘﺎﯾﻖ\n', 'font_name': ['QECAAA+IRANSans'], 'font_sieze': [11]}
+{'x0': 517, 'y0': 748, 'x1': 563, 'y1': 759, 'page_number': 1, 'content': 'اﭘﻠﯿﮑﯿﺸﻦ\n', 'font_name': ['QECAAA+IRANSans'], 'font_sieze': [11]}
+{'x0': 326, 'y0': 724, 'x1': 350, 'y1': 735, 'page_number': 1, 'content': ': ﺷﺪه\n', 'font_name': ['QECAAA+IRANSans'], 'font_sieze': [11]}
+{'x0': 354, 'y0': 724, 'x1': 384, 'y1': 735, 'page_number': 1, 'content': 'ﺳﺎﺧﺘﻪ\n', 'font_name': ['QECAAA+IRANSans'], 'font_sieze': [11]}
+{'x0': 384, 'y0': 724, 'x1': 524, 'y1': 735, 'page_number': 1, 'content': ' html, css, js, bootstrap  ﺑﺎ  و \n', 'font_name': ['QECAAA+IRANSans'], 'font_sieze': [11]}
+{'x0': 524, 'y0': 724, 'x1': 548, 'y1': 735, 'page_number': 1, 'content': 'دﻫﺪ.\n', 'font_name': ['QECAAA+IRANSans'], 'font_sieze': [11]}
+{'x0': 548, 'y0': 724, 'x1': 563, 'y1': 735, 'page_number': 1, 'content': 'ﻣﯽ\n', 'font_name': ['QECAAA+IRANSans'], 'font_sieze': [11]}
+{'x0': 328, 'y0': 700, 'x1': 563, 'y1': 711, 'page_number': 1, 'content': 'https://github.com/MotahareFallah/Math-fact-app\n', 'font_name': ['QECAAA+IRANSans'], 'font_sieze': [11]}
+{'x0': 197, 'y0': 652, 'x1': 220, 'y1': 663, 'page_number': 1, 'content': ': ﺷﺪه\n', 'font_name': ['QECAAA+IRANSans'], 'font_sieze': [11]}
+{'x0': 225, 'y0': 652, 'x1': 255, 'y1': 663, 'page_number': 1, 'content': 'ﺳﺎﺧﺘﻪ\n', 'font_name': ['QECAAA+IRANSans'], 'font_sieze': [11]}
+{'x0': 255, 'y0': 652, 'x1': 362, 'y1': 663, 'page_number': 1, 'content': ' html, css, js, vue3  از  \n', 'font_name': ['QECAAA+IRANSans'], 'font_sieze': [11]}
+{'x0': 362, 'y0': 652, 'x1': 399, 'y1': 663, 'page_number': 1, 'content': 'اﺳﺘﻔﺎده\n', 'font_name': ['QECAAA+IRANSans'], 'font_sieze': [11]}
+{'x0': 399, 'y0': 652, 'x1': 429, 'y1': 663, 'page_number': 1, 'content': '  ﺑﺎ   ﮐﻪ  \n', 'font_name': ['QECAAA+IRANSans'], 'font_sieze': [11]}
+{'x0': 429, 'y0': 652, 'x1': 467, 'y1': 663, 'page_number': 1, 'content': 'ﻣﺤﺼﻮل\n', 'font_name': ['QECAAA+IRANSans'], 'font_sieze': [11]}
+{'x0': 467, 'y0': 652, 'x1': 495, 'y1': 663, 'page_number': 1, 'content': '  ﺧﺮﯾﺪ\n', 'font_name': ['QECAAA+IRANSans'], 'font_sieze': [11]}
+{'x0': 499, 'y0': 652, 'x1': 524, 'y1': 663, 'page_number': 1, 'content': 'ﺑﺮای  \n', 'font_name': ['QECAAA+IRANSans'], 'font_sieze': [11]}
+{'x0': 524, 'y0': 652, 'x1': 546, 'y1': 663, 'page_number': 1, 'content': 'ﭘﯿﺞ  \n', 'font_name': ['QECAAA+IRANSans'], 'font_sieze': [11]}
+{'x0': 546, 'y0': 652, 'x1': 563, 'y1': 663, 'page_number': 1, 'content': 'ﯾﮏ\n', 'font_name': ['QECAAA+IRANSans'], 'font_sieze': [11]}
+{'x0': 340, 'y0': 628, 'x1': 563, 'y1': 639, 'page_number': 1, 'content': 'https://github.com/MotahareFallah/Vue-project\n', 'font_name': ['QECAAA+IRANSans'], 'font_sieze': [11]}
+{'x0': 514, 'y0': 541, 'x1': 528, 'y1': 554, 'page_number': 1, 'content': 'ﻫﺎﻫﺎ\n', 'font_name': ['QJCAAA+IRANSans-Bold'], 'font_sieze': [13]}
+{'x0': 528, 'y0': 541, 'x1': 563, 'y1': 554, 'page_number': 1, 'content': 'ﻣﻬﺎرت ﻣﻬﺎرت\n', 'font_name': ['QJCAAA+IRANSans-Bold'], 'font_sieze': [13]}
+{'x0': 494, 'y0': 498, 'x1': 529, 'y1': 509, 'page_number': 1, 'content': 'HTML5\n', 'font_name': ['QECAAA+IRANSans'], 'font_sieze': [11]}
+{'x0': 501, 'y0': 474, 'x1': 529, 'y1': 485, 'page_number': 1, 'content': 'CSS3\n', 'font_name': ['QECAAA+IRANSans'], 'font_sieze': [11]}
+{'x0': 482, 'y0': 450, 'x1': 529, 'y1': 461, 'page_number': 1, 'content': 'Bootstrap\n', 'font_name': ['QECAAA+IRANSans'], 'font_sieze': [11]}
+{'x0': 480, 'y0': 426, 'x1': 529, 'y1': 437, 'page_number': 1, 'content': 'Javascript\n', 'font_name': ['QECAAA+IRANSans'], 'font_sieze': [11]}
+{'x0': 504, 'y0': 402, 'x1': 529, 'y1': 413, 'page_number': 1, 'content': 'Vue3\n', 'font_name': ['QECAAA+IRANSans'], 'font_sieze': [11]}
+{'x0': 482, 'y0': 378, 'x1': 529, 'y1': 389, 'page_number': 1, 'content': 'git, github\n', 'font_name': ['QECAAA+IRANSans'], 'font_sieze': [11]}
+{'x0': 475, 'y0': 327, 'x1': 524, 'y1': 340, 'page_number': 1, 'content': 'ﺗﺤﺼﯿﻠﯽ\nﺗﺤﺼﯿﻠﯽ\n', 'font_name': ['QJCAAA+IRANSans-Bold'], 'font_sieze': [13]}
+{'x0': 527, 'y0': 327, 'x1': 563, 'y1': 340, 'page_number': 1, 'content': 'ﺳﻮاﺑﻖ ﺳﻮاﺑﻖ\n', 'font_name': ['QJCAAA+IRANSans-Bold'], 'font_sieze': [13]}
+{'x0': 437, 'y0': 284, 'x1': 448, 'y1': 295, 'page_number': 1, 'content': 'ﻫﺎ\n', 'font_name': ['QECAAA+IRANSans'], 'font_sieze': [11]}
+{'x0': 448, 'y0': 284, 'x1': 475, 'y1': 295, 'page_number': 1, 'content': 'ﮐﺎرﺑﺮد\n', 'font_name': ['QECAAA+IRANSans'], 'font_sieze': [11]}
+{'x0': 475, 'y0': 284, 'x1': 489, 'y1': 295, 'page_number': 1, 'content': ' و \n', 'font_name': ['QECAAA+IRANSans'], 'font_sieze': [11]}
+{'x0': 489, 'y0': 284, 'x1': 529, 'y1': 295, 'page_number': 1, 'content': 'رﯾﺎﺿﯿﺎت\n', 'font_name': ['QECAAA+IRANSans'], 'font_sieze': [11]}
+{'x0': 449, 'y0': 260, 'x1': 489, 'y1': 271, 'page_number': 1, 'content': 'ﻣﺎزﻧﺪران\n', 'font_name': ['QECAAA+IRANSans'], 'font_sieze': [11]}
+{'x0': 493, 'y0': 260, 'x1': 530, 'y1': 271, 'page_number': 1, 'content': 'داﻧﺸﮕﺎه\n', 'font_name': ['QECAAA+IRANSans'], 'font_sieze': [11]}
+{'x0': 530, 'y0': 260, 'x1': 541, 'y1': 274, 'page_number': 1, 'content': ' \uf111\n', 'font_name': ['QECAAA+IRANSans', 'QOCAAA+icons'], 'font_sieze': [11, 7]}
+{'x0': 457, 'y0': 236, 'x1': 541, 'y1': 250, 'page_number': 1, 'content': '۱۳۹۶  ﺗﺎ  ۱۳۹۲  از  \uf10b\n', 'font_name': ['QECAAA+IRANSans', 'QOCAAA+icons'], 'font_sieze': [11, 7]}
+{'x0': 476, 'y0': 173, 'x1': 511, 'y1': 186, 'page_number': 1, 'content': 'ﻣﺴﻠﻂ ﻣﺴﻠﻂ\n', 'font_name': ['QJCAAA+IRANSans-Bold'], 'font_sieze': [13]}
+{'x0': 510, 'y0': 173, 'x1': 539, 'y1': 186, 'page_number': 1, 'content': '   ﻫﺎی ﻫﺎی\n', 'font_name': ['QJCAAA+IRANSans-Bold'], 'font_sieze': [13]}
+{'x0': 539, 'y0': 173, 'x1': 563, 'y1': 186, 'page_number': 1, 'content': 'زﺑﺎن زﺑﺎن\n', 'font_name': ['QJCAAA+IRANSans-Bold'], 'font_sieze': [13]}
+{'x0': 440, 'y0': 124, 'x1': 445, 'y1': 135, 'page_number': 1, 'content': '(\n', 'font_name': ['QECAAA+IRANSans'], 'font_sieze': [11]}
+{'x0': 446, 'y0': 124, 'x1': 480, 'y1': 135, 'page_number': 1, 'content': 'ﻣﺘﻮﺳﻂ\n', 'font_name': ['QECAAA+IRANSans'], 'font_sieze': [11]}
+{'x0': 480, 'y0': 124, 'x1': 489, 'y1': 135, 'page_number': 1, 'content': ') \n', 'font_name': ['QECAAA+IRANSans'], 'font_sieze': [11]}
+{'x0': 489, 'y0': 124, 'x1': 529, 'y1': 135, 'page_number': 1, 'content': 'اﻧﮕﻠﯿﺴﯽ\n', 'font_name': ['QECAAA+IRANSans'], 'font_sieze': [11]}
+{'x0': 257, 'y0': 656, 'x1': 302, 'y1': 666, 'page_number': 1, 'content': 'Jobinja  |   | \nJobinja\n', 'font_name': ['QJCAAA+IRANSans-Bold'], 'font_sieze': [11]}
+{'x0': 302, 'y0': 656, 'x1': 338, 'y1': 666, 'page_number': 1, 'content': 'ﺟﺎﺑﯿﻨﺠﺎ\nﺟﺎﺑﯿﻨﺠﺎ\n', 'font_name': ['QJCAAA+IRANSans-Bold'], 'font_sieze': [11]}
+{'x0': 201, 'y0': 632, 'x1': 250, 'y1': 642, 'page_number': 1, 'content': 'اﺳﺘﺨﺪاﻣﯽ\n', 'font_name': ['QECAAA+IRANSans'], 'font_sieze': [11]}
+{'x0': 254, 'y0': 632, 'x1': 272, 'y1': 642, 'page_number': 1, 'content': 'اﺑﺰار\n', 'font_name': ['QECAAA+IRANSans'], 'font_sieze': [11]}
+{'x0': 276, 'y0': 632, 'x1': 299, 'y1': 642, 'page_number': 1, 'content': 'ﺗﺮﯾﻦ\n', 'font_name': ['QECAAA+IRANSans'], 'font_sieze': [11]}
+{'x0': 299, 'y0': 632, 'x1': 324, 'y1': 642, 'page_number': 1, 'content': 'ﺻﺮﻓﻪ\n', 'font_name': ['QECAAA+IRANSans'], 'font_sieze': [11]}
+{'x0': 324, 'y0': 632, 'x1': 347, 'y1': 642, 'page_number': 1, 'content': 'ﺑﻪ  و \n', 'font_name': ['QECAAA+IRANSans'], 'font_sieze': [11]}
+{'x0': 347, 'y0': 632, 'x1': 369, 'y1': 642, 'page_number': 1, 'content': 'ﺗﺮﯾﻦ\n', 'font_name': ['QECAAA+IRANSans'], 'font_sieze': [11]}
+{'x0': 369, 'y0': 632, 'x1': 394, 'y1': 642, 'page_number': 1, 'content': 'ﺳﺮﯾﻊ\n', 'font_name': ['QECAAA+IRANSans'], 'font_sieze': [11]}
+{'x0': 242, 'y0': 596, 'x1': 311, 'y1': 607, 'page_number': 1, 'content': 'GM-1754431 : \n', 'font_name': ['QECAAA+IRANSans'], 'font_sieze': [11]}
+{'x0': 311, 'y0': 596, 'x1': 337, 'y1': 607, 'page_number': 1, 'content': 'ﻣﺮﺟﻊ\n', 'font_name': ['QECAAA+IRANSans'], 'font_sieze': [11]}
+{'x0': 337, 'y0': 596, 'x1': 353, 'y1': 607, 'page_number': 1, 'content': '  ﮐﺪ\n', 'font_name': ['QECAAA+IRANSans'], 'font_sieze': [11]}
+{'x0': 242, 'y0': 572, 'x1': 299, 'y1': 583, 'page_number': 1, 'content': '۱۴۰۱/۰۵/۰۴ : \n', 'font_name': ['QECAAA+IRANSans'], 'font_sieze': [11]}
+{'x0': 299, 'y0': 572, 'x1': 324, 'y1': 583, 'page_number': 1, 'content': 'اﯾﺠﺎد\n', 'font_name': ['QECAAA+IRANSans'], 'font_sieze': [11]}
+{'x0': 328, 'y0': 572, 'x1': 353, 'y1': 583, 'page_number': 1, 'content': 'ﺗﺎرﯾﺦ\n', 'font_name': ['QECAAA+IRANSans'], 'font_sieze': [11]}
+{'x0': 268, 'y0': 548, 'x1': 295, 'y1': 559, 'page_number': 1, 'content': 'آﻧﻼﯾﻦ\n', 'font_name': ['QECAAA+IRANSans'], 'font_sieze': [11]}
+{'x0': 300, 'y0': 548, 'x1': 328, 'y1': 559, 'page_number': 1, 'content': 'ﻧﺴﺨﻪ\n', 'font_name': ['QECAAA+IRANSans'], 'font_sieze': [11]}

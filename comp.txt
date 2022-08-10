@@ -1,0 +1,22 @@
+zahra:
+{'x0': 528, 'y0': 232, 'x1': 563, 'y1': 245, 'page_number': 1,
+'content': 'ﻣﻬﺎرت ﻣﻬﺎرت\n', 'font_name': ['IRANSans-Bold'], 'font_sieze': [13]}
+
+mothar:
+{'x0': 528, 'y0': 541, 'x1': 563, 'y1': 554, 'page_number': 1,
+'content': 'ﻣﻬﺎرت ﻣﻬﺎرت\n', 'font_name': ['IRANSans-Bold'], 'font_sieze': [13]}
+
+
+jobi-3:
+{'x0': 528, 'y0': 304, 'x1': 563, 'y1': 317, 'page_number': 1, 
+'content': 'ﻣﻬﺎرت ﻣﻬﺎرت\n', 'font_name': ['IRANSans-Bold'], 'font_sieze': [13]}
+
+jobi-4:
+{'x0': 528, 'y0': 46, 'x1': 563, 'y1': 59, 'page_number': 1, 
+'content': 'ﻣﻬﺎرت ﻣﻬﺎرت\n', 'font_name': ['IRANSans-Bold'], 'font_sieze': [13]}
+
+1: <LTTextBoxHorizontal(10) 516.612,597.809,562.681,610.771 'اﻃﻼﻋﺎت\nاﻃﻼﻋﺎت\n'>, 
+2: <LTTextBoxHorizontal(27) 527.242,386.391,562.566,399.353 'ﺳﻮاﺑﻖ ﺳﻮاﺑﻖ\n'>, 
+3: <LTTextBoxHorizontal(36) 527.746,232.149,562.669,245.110 'ﻣﻬﺎرت ﻣﻬﺎرت\n'>,
+ 4: <LTTextBoxHorizontal(1) 527.334,791.080,562.658,804.042 'ﺳﻮاﺑﻖ ﺳﻮاﺑﻖ\n'>, 
+ 5: <LTTextBoxHorizontal(13) 539.088,636.838,562.723,649.799 'زﺑﺎن زﺑﺎن\n'>}

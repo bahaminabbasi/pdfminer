@@ -1,0 +1,116 @@
+{'x0': 440, 'y0': 777, 'x1': 545, 'y1': 792, 'page_number': 1, 'content': 'amirabas jafari\namirabas jafari\n', 'font_name': ['IRANSans-Bold'], 'font_sieze': [15]}
+{'x0': 316, 'y0': 733, 'x1': 545, 'y1': 768, 'page_number': 1, 'content': 'ﮐﺎﻣﭙﯿﻮﺗﺮ\namirabsjafari@gmail.com \uf11c  ۰۹۰۳۹۶۶۹۱۰۱ \uf106\n', 'font_name': ['IRANSans', 'icons'], 'font_sieze': [11, 14]}
+{'x0': 436, 'y0': 709, 'x1': 471, 'y1': 720, 'page_number': 1, 'content': 'ﺟﺎﺑﯿﻨﺠﺎ\n', 'font_name': ['IRANSans'], 'font_sieze': [11]}
+{'x0': 476, 'y0': 709, 'x1': 501, 'y1': 720, 'page_number': 1, 'content': 'ﻃﺮﯾﻖ\n', 'font_name': ['IRANSans'], 'font_sieze': [11]}
+{'x0': 501, 'y0': 709, 'x1': 516, 'y1': 720, 'page_number': 1, 'content': '  از  \n', 'font_name': ['IRANSans'], 'font_sieze': [11]}
+{'x0': 516, 'y0': 709, 'x1': 545, 'y1': 720, 'page_number': 1, 'content': 'ﺗﻤﺎس\n', 'font_name': ['IRANSans'], 'font_sieze': [11]}
+{'x0': 468, 'y0': 646, 'x1': 513, 'y1': 659, 'page_number': 1, 'content': 'ﺷﺨﺼﯽ\nﺷﺨﺼﯽ\n', 'font_name': ['IRANSans-Bold'], 'font_sieze': [13]}
+{'x0': 517, 'y0': 646, 'x1': 563, 'y1': 659, 'page_number': 1, 'content': 'اﻃﻼﻋﺎت\nاﻃﻼﻋﺎت\n', 'font_name': ['IRANSans-Bold'], 'font_sieze': [13]}
+{'x0': 482, 'y0': 603, 'x1': 519, 'y1': 614, 'page_number': 1, 'content': ' ۱۳۸۳ : \n', 'font_name': ['IRANSans'], 'font_sieze': [11]}
+{'x0': 519, 'y0': 603, 'x1': 563, 'y1': 614, 'page_number': 1, 'content': 'ﺗﻮﻟﺪ   ﺳﺎل\n', 'font_name': ['IRANSans'], 'font_sieze': [11]}
+{'x0': 497, 'y0': 573, 'x1': 525, 'y1': 584, 'page_number': 1, 'content': '  ﻣﺮد  :\n', 'font_name': ['IRANSans'], 'font_sieze': [11]}
+{'x0': 525, 'y0': 573, 'x1': 563, 'y1': 584, 'page_number': 1, 'content': 'ﺟﻨﺴﯿﺖ\n', 'font_name': ['IRANSans'], 'font_sieze': [11]}
+{'x0': 399, 'y0': 544, 'x1': 439, 'y1': 555, 'page_number': 1, 'content': 'ﺗﺤﺼﯿﻠﯽ\n', 'font_name': ['IRANSans'], 'font_sieze': [11]}
+{'x0': 443, 'y0': 544, 'x1': 480, 'y1': 555, 'page_number': 1, 'content': 'ﻣﻌﺎﻓﯿﺖ\n', 'font_name': ['IRANSans'], 'font_sieze': [11]}
+{'x0': 480, 'y0': 544, 'x1': 487, 'y1': 555, 'page_number': 1, 'content': ': \n', 'font_name': ['IRANSans'], 'font_sieze': [11]}
+{'x0': 487, 'y0': 544, 'x1': 520, 'y1': 555, 'page_number': 1, 'content': 'ﺳﺮﺑﺎزی\n', 'font_name': ['IRANSans'], 'font_sieze': [11]}
+{'x0': 524, 'y0': 544, 'x1': 563, 'y1': 555, 'page_number': 1, 'content': 'وﺿﻌﯿﺖ\n', 'font_name': ['IRANSans'], 'font_sieze': [11]}
+{'x0': 464, 'y0': 515, 'x1': 489, 'y1': 526, 'page_number': 1, 'content': 'ﻣﺠﺮد\n', 'font_name': ['IRANSans'], 'font_sieze': [11]}
+{'x0': 489, 'y0': 515, 'x1': 496, 'y1': 526, 'page_number': 1, 'content': ' :\n', 'font_name': ['IRANSans'], 'font_sieze': [11]}
+{'x0': 496, 'y0': 515, 'x1': 524, 'y1': 526, 'page_number': 1, 'content': 'ﺗﺄﻫﻞ  \n', 'font_name': ['IRANSans'], 'font_sieze': [11]}
+{'x0': 524, 'y0': 515, 'x1': 563, 'y1': 526, 'page_number': 1, 'content': 'وﺿﻌﯿﺖ\n', 'font_name': ['IRANSans'], 'font_sieze': [11]}
+{'x0': 462, 'y0': 486, 'x1': 494, 'y1': 497, 'page_number': 1, 'content': 'ﺗﻬﺮان  :\n', 'font_name': ['IRANSans'], 'font_sieze': [11]}
+{'x0': 495, 'y0': 486, 'x1': 531, 'y1': 497, 'page_number': 1, 'content': 'ﺳﮑﻮﻧﺖ\n', 'font_name': ['IRANSans'], 'font_sieze': [11]}
+{'x0': 535, 'y0': 486, 'x1': 563, 'y1': 497, 'page_number': 1, 'content': 'اﺳﺘﺎن\n', 'font_name': ['IRANSans'], 'font_sieze': [11]}
+{'x0': 503, 'y0': 457, 'x1': 536, 'y1': 467, 'page_number': 1, 'content': 'ﺗﻬﺮان  :\n', 'font_name': ['IRANSans'], 'font_sieze': [11]}
+{'x0': 536, 'y0': 457, 'x1': 563, 'y1': 467, 'page_number': 1, 'content': 'آدرس\n', 'font_name': ['IRANSans'], 'font_sieze': [11]}
+{'x0': 499, 'y0': 405, 'x1': 532, 'y1': 418, 'page_number': 1, 'content': 'ﻣﻦﻣﻦ   یی\n', 'font_name': ['IRANSans-Bold'], 'font_sieze': [13]}
+{'x0': 532, 'y0': 405, 'x1': 563, 'y1': 418, 'page_number': 1, 'content': 'درﺑﺎره\nدرﺑﺎره\n', 'font_name': ['IRANSans-Bold'], 'font_sieze': [13]}
+{'x0': 418, 'y0': 362, 'x1': 438, 'y1': 373, 'page_number': 1, 'content': 'ﺑﻠﺪم\n', 'font_name': ['IRANSans'], 'font_sieze': [11]}
+{'x0': 442, 'y0': 362, 'x1': 482, 'y1': 373, 'page_number': 1, 'content': 'ای   ﺣﺮﻓﻪ\n', 'font_name': ['IRANSans'], 'font_sieze': [11]}
+{'x0': 486, 'y0': 362, 'x1': 520, 'y1': 373, 'page_number': 1, 'content': 'ﺑﺼﻮرت\n', 'font_name': ['IRANSans'], 'font_sieze': [11]}
+{'x0': 524, 'y0': 362, 'x1': 563, 'y1': 373, 'page_number': 1, 'content': 'ﺑﯿﺎن   ﻓﻦ\n', 'font_name': ['IRANSans'], 'font_sieze': [11]}
+{'x0': 384, 'y0': 338, 'x1': 416, 'y1': 349, 'page_number': 1, 'content': 'ﻧﻮﯾﺴﯽ\n', 'font_name': ['IRANSans'], 'font_sieze': [11]}
+{'x0': 416, 'y0': 338, 'x1': 446, 'y1': 349, 'page_number': 1, 'content': '  ﮐﺪ  و \n', 'font_name': ['IRANSans'], 'font_sieze': [11]}
+{'x0': 446, 'y0': 338, 'x1': 478, 'y1': 349, 'page_number': 1, 'content': 'ﻧﻮﯾﺴﯽ\n', 'font_name': ['IRANSans'], 'font_sieze': [11]}
+{'x0': 483, 'y0': 338, 'x1': 510, 'y1': 349, 'page_number': 1, 'content': 'ﺑﺮﻧﺎﻣﻪ\n', 'font_name': ['IRANSans'], 'font_sieze': [11]}
+{'x0': 510, 'y0': 338, 'x1': 527, 'y1': 349, 'page_number': 1, 'content': '  ﺑﻪ  \n', 'font_name': ['IRANSans'], 'font_sieze': [11]}
+{'x0': 527, 'y0': 338, 'x1': 563, 'y1': 349, 'page_number': 1, 'content': 'ﻋﻼﻗﻤﻨﺪ\n', 'font_name': ['IRANSans'], 'font_sieze': [11]}
+{'x0': 217, 'y0': 314, 'x1': 247, 'y1': 325, 'page_number': 1, 'content': 'ﻫﺴﺘﻢ\n', 'font_name': ['IRANSans'], 'font_sieze': [11]}
+{'x0': 247, 'y0': 314, 'x1': 263, 'y1': 325, 'page_number': 1, 'content': '  ﮐﺎر\n', 'font_name': ['IRANSans'], 'font_sieze': [11]}
+{'x0': 267, 'y0': 314, 'x1': 298, 'y1': 325, 'page_number': 1, 'content': 'ﺟﻮﯾﺎی\n', 'font_name': ['IRANSans'], 'font_sieze': [11]}
+{'x0': 298, 'y0': 314, 'x1': 312, 'y1': 325, 'page_number': 1, 'content': ' و \n', 'font_name': ['IRANSans'], 'font_sieze': [11]}
+{'x0': 312, 'y0': 314, 'x1': 334, 'y1': 325, 'page_number': 1, 'content': 'ﮐﺮدم\n', 'font_name': ['IRANSans'], 'font_sieze': [11]}
+{'x0': 338, 'y0': 314, 'x1': 378, 'y1': 325, 'page_number': 1, 'content': 'ﻣﺸﺎﻫﺪه\n', 'font_name': ['IRANSans'], 'font_sieze': [11]}
+{'x0': 382, 'y0': 314, 'x1': 409, 'y1': 325, 'page_number': 1, 'content': 'ﮐﺎﻣﻞ  \n', 'font_name': ['IRANSans'], 'font_sieze': [11]}
+{'x0': 409, 'y0': 314, 'x1': 442, 'y1': 325, 'page_number': 1, 'content': 'ﻧﻮﯾﺴﯿﻮ\n', 'font_name': ['IRANSans'], 'font_sieze': [11]}
+{'x0': 446, 'y0': 314, 'x1': 473, 'y1': 325, 'page_number': 1, 'content': 'ﺑﺮﻧﺎﻣﻪ\n', 'font_name': ['IRANSans'], 'font_sieze': [11]}
+{'x0': 477, 'y0': 314, 'x1': 514, 'y1': 325, 'page_number': 1, 'content': 'اﻣﻮزﺷﯽ\n', 'font_name': ['IRANSans'], 'font_sieze': [11]}
+{'x0': 514, 'y0': 314, 'x1': 542, 'y1': 325, 'page_number': 1, 'content': '  ﻫﺎی  \n', 'font_name': ['IRANSans'], 'font_sieze': [11]}
+{'x0': 542, 'y0': 314, 'x1': 563, 'y1': 325, 'page_number': 1, 'content': 'ﻓﯿﻠﻢ\n', 'font_name': ['IRANSans'], 'font_sieze': [11]}
+{'x0': 330, 'y0': 290, 'x1': 354, 'y1': 301, 'page_number': 1, 'content': 'ﺑﺰﻧﻢ  \n', 'font_name': ['IRANSans'], 'font_sieze': [11]}
+{'x0': 354, 'y0': 290, 'x1': 372, 'y1': 301, 'page_number': 1, 'content': 'ﮐﺎرو\n', 'font_name': ['IRANSans'], 'font_sieze': [11]}
+{'x0': 376, 'y0': 290, 'x1': 410, 'y1': 301, 'page_number': 1, 'content': 'اﺳﺘﺎرت\n', 'font_name': ['IRANSans'], 'font_sieze': [11]}
+{'x0': 414, 'y0': 290, 'x1': 454, 'y1': 301, 'page_number': 1, 'content': 'ﮐﺎرآﻣﻮزی\n', 'font_name': ['IRANSans'], 'font_sieze': [11]}
+{'x0': 454, 'y0': 290, 'x1': 469, 'y1': 301, 'page_number': 1, 'content': '  از  \n', 'font_name': ['IRANSans'], 'font_sieze': [11]}
+{'x0': 469, 'y0': 290, 'x1': 504, 'y1': 301, 'page_number': 1, 'content': 'ﻣﯿﺨﻮام\n', 'font_name': ['IRANSans'], 'font_sieze': [11]}
+{'x0': 508, 'y0': 290, 'x1': 531, 'y1': 301, 'page_number': 1, 'content': 'ﻧﺪارم\n', 'font_name': ['IRANSans'], 'font_sieze': [11]}
+{'x0': 536, 'y0': 290, 'x1': 563, 'y1': 301, 'page_number': 1, 'content': 'ﺳﺎﺑﻘﻪ\n', 'font_name': ['IRANSans'], 'font_sieze': [11]}
+{'x0': 490, 'y0': 227, 'x1': 524, 'y1': 240, 'page_number': 1, 'content': 'ﺷﻐﻠﯽ ﺷﻐﻠﯽ\n', 'font_name': ['IRANSans-Bold'], 'font_sieze': [13]}
+{'x0': 527, 'y0': 227, 'x1': 563, 'y1': 240, 'page_number': 1, 'content': 'ﺳﻮاﺑﻖ ﺳﻮاﺑﻖ\n', 'font_name': ['IRANSans-Bold'], 'font_sieze': [13]}
+{'x0': 474, 'y0': 184, 'x1': 498, 'y1': 195, 'page_number': 1, 'content': 'ﻧﺪارم\n', 'font_name': ['IRANSans'], 'font_sieze': [11]}
+{'x0': 502, 'y0': 184, 'x1': 529, 'y1': 195, 'page_number': 1, 'content': 'ﺳﺎﺑﻘﻪ\n', 'font_name': ['IRANSans'], 'font_sieze': [11]}
+{'x0': 505, 'y0': 160, 'x1': 530, 'y1': 171, 'page_number': 1, 'content': 'ﻧﺮﻓﺘﻢ\n', 'font_name': ['IRANSans'], 'font_sieze': [11]}
+{'x0': 530, 'y0': 160, 'x1': 541, 'y1': 174, 'page_number': 1, 'content': ' \uf111\n', 'font_name': ['IRANSans', 'icons'], 'font_sieze': [11, 7]}
+{'x0': 366, 'y0': 136, 'x1': 396, 'y1': 147, 'page_number': 1, 'content': '۱۳۸۳ \n', 'font_name': ['IRANSans'], 'font_sieze': [11]}
+{'x0': 396, 'y0': 136, 'x1': 434, 'y1': 147, 'page_number': 1, 'content': 'ﻓﺮوردﯾﻦ\n', 'font_name': ['IRANSans'], 'font_sieze': [11]}
+{'x0': 434, 'y0': 136, 'x1': 480, 'y1': 147, 'page_number': 1, 'content': '  ﺗﺎ  ۱۳۸۳ \n', 'font_name': ['IRANSans'], 'font_sieze': [11]}
+{'x0': 480, 'y0': 136, 'x1': 519, 'y1': 147, 'page_number': 1, 'content': 'ﻓﺮوردﯾﻦ\n', 'font_name': ['IRANSans'], 'font_sieze': [11]}
+{'x0': 519, 'y0': 136, 'x1': 541, 'y1': 150, 'page_number': 1, 'content': '  از  \uf10b\n', 'font_name': ['IRANSans', 'icons'], 'font_sieze': [11, 7]}
+{'x0': 383, 'y0': 109, 'x1': 395, 'y1': 120, 'page_number': 1, 'content': 'ﮐﺎر\n', 'font_name': ['IRANSans'], 'font_sieze': [11]}
+{'x0': 399, 'y0': 109, 'x1': 430, 'y1': 120, 'page_number': 1, 'content': 'ﺟﻮﯾﺎی\n', 'font_name': ['IRANSans'], 'font_sieze': [11]}
+{'x0': 434, 'y0': 109, 'x1': 468, 'y1': 120, 'page_number': 1, 'content': 'ﻣﯿﺒﺎﺷﻢ\n', 'font_name': ['IRANSans'], 'font_sieze': [11]}
+{'x0': 472, 'y0': 109, 'x1': 512, 'y1': 120, 'page_number': 1, 'content': 'ﮐﺎراﻣﻮزی\n', 'font_name': ['IRANSans'], 'font_sieze': [11]}
+{'x0': 517, 'y0': 109, 'x1': 541, 'y1': 120, 'page_number': 1, 'content': 'دﻧﺒﺎل\n', 'font_name': ['IRANSans'], 'font_sieze': [11]}
+{'x0': 514, 'y0': 46, 'x1': 528, 'y1': 59, 'page_number': 1, 'content': 'ﻫﺎﻫﺎ\n', 'font_name': ['IRANSans-Bold'], 'font_sieze': [13]}
+{'x0': 528, 'y0': 46, 'x1': 563, 'y1': 59, 'page_number': 1, 'content': 'ﻣﻬﺎرت ﻣﻬﺎرت\n', 'font_name': ['IRANSans-Bold'], 'font_sieze': [13]}
+{'x0': 469, 'y0': 793, 'x1': 502, 'y1': 804, 'page_number': 1, 'content': 'ﻧﻮﯾﺲ  \n', 'font_name': ['IRANSans'], 'font_sieze': [11]}
+{'x0': 502, 'y0': 793, 'x1': 529, 'y1': 804, 'page_number': 1, 'content': 'ﺑﺮﻧﺎﻣﻪ\n', 'font_name': ['IRANSans'], 'font_sieze': [11]}
+{'x0': 494, 'y0': 769, 'x1': 529, 'y1': 780, 'page_number': 1, 'content': 'HTML5\n', 'font_name': ['IRANSans'], 'font_sieze': [11]}
+{'x0': 515, 'y0': 745, 'x1': 529, 'y1': 756, 'page_number': 1, 'content': '#C\n', 'font_name': ['IRANSans'], 'font_sieze': [11]}
+{'x0': 507, 'y0': 721, 'x1': 529, 'y1': 732, 'page_number': 1, 'content': 'CSS\n', 'font_name': ['IRANSans'], 'font_sieze': [11]}
+{'x0': 508, 'y0': 697, 'x1': 529, 'y1': 708, 'page_number': 1, 'content': '++ C\n', 'font_name': ['IRANSans'], 'font_sieze': [11]}
+{'x0': 486, 'y0': 673, 'x1': 529, 'y1': 684, 'page_number': 1, 'content': 'Bootsrap\n', 'font_name': ['IRANSans'], 'font_sieze': [11]}
+{'x0': 507, 'y0': 649, 'x1': 529, 'y1': 660, 'page_number': 1, 'content': 'PHP\n', 'font_name': ['IRANSans'], 'font_sieze': [11]}
+{'x0': 475, 'y0': 598, 'x1': 524, 'y1': 611, 'page_number': 1, 'content': 'ﺗﺤﺼﯿﻠﯽ\nﺗﺤﺼﯿﻠﯽ\n', 'font_name': ['IRANSans-Bold'], 'font_sieze': [13]}
+{'x0': 527, 'y0': 598, 'x1': 563, 'y1': 611, 'page_number': 1, 'content': 'ﺳﻮاﺑﻖ ﺳﻮاﺑﻖ\n', 'font_name': ['IRANSans-Bold'], 'font_sieze': [13]}
+{'x0': 491, 'y0': 555, 'x1': 529, 'y1': 566, 'page_number': 1, 'content': 'ﮐﺎﻣﭙﯿﻮﺗﺮ\n', 'font_name': ['IRANSans'], 'font_sieze': [11]}
+{'x0': 494, 'y0': 531, 'x1': 507, 'y1': 542, 'page_number': 1, 'content': 'ﻧﻮر\n', 'font_name': ['IRANSans'], 'font_sieze': [11]}
+{'x0': 511, 'y0': 531, 'x1': 541, 'y1': 545, 'page_number': 1, 'content': 'ﭘﯿﺎم  \uf111\n', 'font_name': ['IRANSans', 'icons'], 'font_sieze': [11, 7]}
+{'x0': 406, 'y0': 507, 'x1': 411, 'y1': 518, 'page_number': 1, 'content': '(\n', 'font_name': ['IRANSans'], 'font_sieze': [11]}
+{'x0': 411, 'y0': 507, 'x1': 447, 'y1': 518, 'page_number': 1, 'content': 'ﺗﺤﺼﯿﻞ\n', 'font_name': ['IRANSans'], 'font_sieze': [11]}
+{'x0': 447, 'y0': 507, 'x1': 541, 'y1': 521, 'page_number': 1, 'content': '  ﺣﺎل   در ) ۱۳۸۸  از  \uf10b\n', 'font_name': ['IRANSans', 'icons'], 'font_sieze': [11, 7]}
+{'x0': 476, 'y0': 444, 'x1': 511, 'y1': 457, 'page_number': 1, 'content': 'ﻣﺴﻠﻂ ﻣﺴﻠﻂ\n', 'font_name': ['IRANSans-Bold'], 'font_sieze': [13]}
+{'x0': 510, 'y0': 444, 'x1': 539, 'y1': 457, 'page_number': 1, 'content': '   ﻫﺎی ﻫﺎی\n', 'font_name': ['IRANSans-Bold'], 'font_sieze': [13]}
+{'x0': 539, 'y0': 444, 'x1': 563, 'y1': 457, 'page_number': 1, 'content': 'زﺑﺎن زﺑﺎن\n', 'font_name': ['IRANSans-Bold'], 'font_sieze': [13]}
+{'x0': 440, 'y0': 395, 'x1': 445, 'y1': 406, 'page_number': 1, 'content': '(\n', 'font_name': ['IRANSans'], 'font_sieze': [11]}
+{'x0': 446, 'y0': 395, 'x1': 480, 'y1': 406, 'page_number': 1, 'content': 'ﻣﺘﻮﺳﻂ\n', 'font_name': ['IRANSans'], 'font_sieze': [11]}
+{'x0': 480, 'y0': 395, 'x1': 489, 'y1': 406, 'page_number': 1, 'content': ') \n', 'font_name': ['IRANSans'], 'font_sieze': [11]}
+{'x0': 489, 'y0': 395, 'x1': 529, 'y1': 406, 'page_number': 1, 'content': 'اﻧﮕﻠﯿﺴﯽ\n', 'font_name': ['IRANSans'], 'font_sieze': [11]}
+{'x0': 257, 'y0': 234, 'x1': 302, 'y1': 245, 'page_number': 1, 'content': 'Jobinja  |   | \nJobinja\n', 'font_name': ['IRANSans-Bold'], 'font_sieze': [11]}
+{'x0': 302, 'y0': 234, 'x1': 338, 'y1': 245, 'page_number': 1, 'content': 'ﺟﺎﺑﯿﻨﺠﺎ\nﺟﺎﺑﯿﻨﺠﺎ\n', 'font_name': ['IRANSans-Bold'], 'font_sieze': [11]}
+{'x0': 201, 'y0': 210, 'x1': 250, 'y1': 221, 'page_number': 1, 'content': 'اﺳﺘﺨﺪاﻣﯽ\n', 'font_name': ['IRANSans'], 'font_sieze': [11]}
+{'x0': 254, 'y0': 210, 'x1': 272, 'y1': 221, 'page_number': 1, 'content': 'اﺑﺰار\n', 'font_name': ['IRANSans'], 'font_sieze': [11]}
+{'x0': 276, 'y0': 210, 'x1': 299, 'y1': 221, 'page_number': 1, 'content': 'ﺗﺮﯾﻦ\n', 'font_name': ['IRANSans'], 'font_sieze': [11]}
+{'x0': 299, 'y0': 210, 'x1': 324, 'y1': 221, 'page_number': 1, 'content': 'ﺻﺮﻓﻪ\n', 'font_name': ['IRANSans'], 'font_sieze': [11]}
+{'x0': 324, 'y0': 210, 'x1': 347, 'y1': 221, 'page_number': 1, 'content': 'ﺑﻪ  و \n', 'font_name': ['IRANSans'], 'font_sieze': [11]}
+{'x0': 347, 'y0': 210, 'x1': 369, 'y1': 221, 'page_number': 1, 'content': 'ﺗﺮﯾﻦ\n', 'font_name': ['IRANSans'], 'font_sieze': [11]}
+{'x0': 369, 'y0': 210, 'x1': 394, 'y1': 221, 'page_number': 1, 'content': 'ﺳﺮﯾﻊ\n', 'font_name': ['IRANSans'], 'font_sieze': [11]}
+{'x0': 241, 'y0': 174, 'x1': 312, 'y1': 185, 'page_number': 1, 'content': 'GM-1656324 : \n', 'font_name': ['IRANSans'], 'font_sieze': [11]}
+{'x0': 312, 'y0': 174, 'x1': 337, 'y1': 185, 'page_number': 1, 'content': 'ﻣﺮﺟﻊ\n', 'font_name': ['IRANSans'], 'font_sieze': [11]}
+{'x0': 338, 'y0': 174, 'x1': 354, 'y1': 185, 'page_number': 1, 'content': '  ﮐﺪ\n', 'font_name': ['IRANSans'], 'font_sieze': [11]}
+{'x0': 242, 'y0': 150, 'x1': 298, 'y1': 161, 'page_number': 1, 'content': '۱۴۰۱/۰۴/۳۱ : \n', 'font_name': ['IRANSans'], 'font_sieze': [11]}
+{'x0': 298, 'y0': 150, 'x1': 324, 'y1': 161, 'page_number': 1, 'content': 'اﯾﺠﺎد\n', 'font_name': ['IRANSans'], 'font_sieze': [11]}
+{'x0': 328, 'y0': 150, 'x1': 353, 'y1': 161, 'page_number': 1, 'content': 'ﺗﺎرﯾﺦ\n', 'font_name': ['IRANSans'], 'font_sieze': [11]}
+{'x0': 268, 'y0': 127, 'x1': 295, 'y1': 137, 'page_number': 1, 'content': 'آﻧﻼﯾﻦ\n', 'font_name': ['IRANSans'], 'font_sieze': [11]}
+{'x0': 300, 'y0': 127, 'x1': 328, 'y1': 137, 'page_number': 1, 'content': 'ﻧﺴﺨﻪ\n', 'font_name': ['IRANSans'], 'font_sieze': [11]}
